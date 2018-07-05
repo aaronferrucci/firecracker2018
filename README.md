@@ -14,7 +14,7 @@ From there you can export the plot, or experiment further with the data set.
 This data set is rather messy (like all race data sets I've seen). Here are
 some issues I noticed:
 1. Of the 319 entries, 207 lack their bib number.
-2. Gender seems wrong in some cases: in particular, the 2nd place winner, "Luke
+2. Gender seems wrong in some cases. Example: the 2nd place winner, "Luke
    Colosi", is marked as female. (Luke's Division is "M 19-24", though, so the
    data isn't even internally consistent.)
 3. 3 entries have Division="No Age Given"; 2 of those do have an age listed

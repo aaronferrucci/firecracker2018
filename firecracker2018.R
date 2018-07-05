@@ -25,6 +25,8 @@ time_ticks <- seq(0, max(data10k$Time), 10 * 60)
 plot <-
   ggplot(data10k, aes(x = Age, y = Time, color=Gender)) +
   expand_limits(x = 0, y = 30*60) +
-  scale_y_continuous(breaks = time_ticks, labels = timestr(time_ticks), name = "elapsed time (h:mm:ss)") + 
+  scale_y_continuous(breaks = time_ticks, labels = timestr(time_ticks), name = "elapsed time (h:mm:ss)") +
+  stat_smooth(formula = y~x) +
   geom_point()
+
 print(plot)

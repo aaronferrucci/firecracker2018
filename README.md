@@ -1,6 +1,6 @@
-# firecracker2018
-![alt text](https://github.com/aaronferrucci/firecracker2018/blob/master/time_vs_age5k.svg "5k time vs. age image")
-![alt text](https://github.com/aaronferrucci/firecracker2018/blob/master/time_vs_age10k.svg "10k time vs. age image")
+# firecracker2019
+![alt text](https://github.com/aaronferrucci/firecracker2018/blob/2019/time_vs_age5k.svg "5k time vs. age image")
+![alt text](https://github.com/aaronferrucci/firecracker2018/blob/2019/time_vs_age10k.svg "10k time vs. age image")
 
 To reproduce these results: 
 1. The race data is [here](https://runsignup.com/Race/Results/47158/?rsus=100-200-fe20fdef-2ac6-4a9b-ba22-de732186e749#resultSetId-121795)
@@ -12,12 +12,9 @@ To reproduce these results:
 
 From there you can export the plots, or experiment further with the data set.
 
-This data set is rather messy (like all race data sets I've seen). Here are
-some issues I noticed in the 10k data:
-1. Of the 319 entries, 207 lack their bib number.
-2. Gender seems wrong in some cases. Example: the 2nd place winner, "Luke
-   Colosi", is marked as female. (Luke's Division is "M 19-24", though, so the
-   data isn't even internally consistent.)
-3. 3 entries have Division="No Age Given"; 2 of those do have an age listed
-4. Of the two entries with no age listed, one lists a Division.
+Data cleanup: there were a few glaring errors in the data. Here are notes and
+resolutions:
+1. The last 10k finisher took 10 hours. Deleted that record, sorry Debbie.
+2. The first 5k finisher had a world-record-breaking pace (just over 3-minute 
+   miles!). Deleted that record.
 

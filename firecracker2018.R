@@ -16,12 +16,15 @@ timestr <- function(elapsed) {
   return(time)
 }
 
-data10k <- read.table("data/processed_10k.txt", sep="\t", stringsAsFactors=F)
+data10k <- read.table("data/processed_10k.txt", sep="\t", quote="", stringsAsFactors=F)
 names(data10k) <- c("Place", "Bib", "FirstName", "LastName", "Gender", "City", "State", "Country", "ClockTime", "ChipTime", "Pace", "Age", "AgePercent", "DivisionPlace", "Division")
+# Manually data cleaning
+# bib #1152 has clock, chip time: 10 hours, 38 seconds. Considering that there was data loss for these results, and they solicited people
+# to send in their times, I'm going to assume this is a typo. But is it supposed to be 1 hour 38 seconds, or 1 hour, 38 minutes? Either is plausible.
+# Solution: delete this record! Sorry, Debbie.
+data10k <- data10k[-which(data10k$Bib == 1152),]
+
 hoursMinutesSeconds <- strsplit(data10k$ClockTime, ":")
-# Two records are missing "Age". Making my best guess.
-data10k[!is.na(data10k$Bib) & data10k$Bib == 482,]$Age = 61
-data10k[!is.na(data10k$Bib) & data10k$Bib == 549,]$Age = 63
 
 data10k$Time <- sapply(hoursMinutesSeconds, function(hms) Reduce(function(acc, x) as.numeric(acc) * 60 + as.numeric(x), hms ))
 time_ticks <- seq(5 * 60, max(data10k$Time), 10 * 60)
@@ -49,8 +52,13 @@ svg(filename="time_vs_age10k.svg")
 print(plot10k)
 dev.off()
 
-data5k <- read.table("data/processed_5k.txt", sep="\t", stringsAsFactors=F)
+data5k <- read.table("data/processed_5k.txt", sep="\t", quote="", stringsAsFactors=F)
 names(data5k) <- c("Place", "Bib", "FirstName", "LastName", "Gender", "City", "State", "Country", "ClockTime", "ChipTime", "Pace", "Age", "AgePercent", "DivisionPlace", "Division")
+# Manually data cleaning
+# bib #203 finished the race in 9 minutes, 38 seconds, at a world record-breaking pace (just over a 3-minute mile). I'll express
+# my skepticism by deleting that record.
+data5k <- data5k[-which(data5k$Bib == 203),]
+
 hoursMinutesSeconds <- strsplit(data5k$ClockTime, ":")
 data5k$Time <- sapply(hoursMinutesSeconds, function(hms) Reduce(function(acc, x) as.numeric(acc) * 60 + as.numeric(x), hms ))
 time_ticks <- seq(5 * 60, max(data5k$Time), 10 * 60)

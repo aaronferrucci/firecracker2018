@@ -12,9 +12,8 @@ To reproduce these results:
 
 From there you can export the plots, or experiment further with the data set.
 
-Data cleanup: there were a few glaring errors in the data. Here are notes and
+Data cleanup: the 5k data has a few glaring errors. Here are notes and
 resolutions:
-1. The last 10k finisher took 10 hours. Deleted that record, sorry Debbie.
-2. The first 5k finisher had a world-record-breaking pace (just over 3-minute 
-   miles!). Deleted that record.
+1. Incomplete records (missing runtime): deleted.
+2. Bib #247 has a run time of more than 100 hours! Deleted.
 

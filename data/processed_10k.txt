@@ -6,148 +6,272 @@
 6	1126	Sam	Yamauchi	M	Davis	CA	US	40:00.0	40:00.0	6:26	20	66.8	2	M 19-24
 7	1184	Chris	Ratliff	M	Santa Cruz	CA	US	40:15.0	40:15.0	6:29	49	74.0	1	M 45-49
 8	1348	Kevan	Chu	M	Santa Cruz	CA	US	40:33.0	40:33.0	6:32	50	74.1	1	M 50-54
-9	1339	paul	kane	M	watsonville	CA	US	42:06.0	42:06.0	6:47	17	64.0	1	M 13-18
-10	1076	John	Dawson	M	Santa Cruz	CA	US	42:15.0	42:15.0	6:48	22	63.2	3	M 19-24
-11	1164	Indy	Reid-Shaw	F	Santa Cruz	CA	US	42:22.0	42:22.0	6:49	24	71.6	2	F 19-24
-12	1253	Benjamin	Iles	M	Menlo Park	CA	US	42:25.0	42:25.0	6:50	32	63.1	2	M 30-34
-13	1188	Paddy	McFall	M	Santa Cruz	CA	US	43:16.0	43:16.0	6:58	28	61.7	2	M 25-29
-14	1160	Ryan	Brady	M	Santa Cruz	CA	US	43:21.0	43:21.0	6:59	42	64.9	1	M 40-44
-15	1221	Gabby	Hughes	F	Santa Cruz	CA	US	43:30.0	43:30.0	7:00	17	71.5	1	F 13-18
-16	1261	patrick	williams	M	Soquel	CA	US	43:50.0	43:50.0	7:03	46	66.3	2	M 45-49
-17	1269	Krishna	Mullia	M	Campbell	CA	US	44:07.0	44:07.0	7:06	27	60.6	3	M 25-29
-18	1140	Kevn	Hunter	M	San Jose	CA	US	44:35.0	44:35.0	7:10	61	74.2	1	M 60-64
-19	1080	Steven	Occhipinti	M	Felton	CA	US	44:50.0	44:50.0	7:13	64	75.9	2	M 60-64
-20	1107	Sophia	Ditty	F	Santa Cruz	CA	US	44:54.0	44:54.0	7:14	29	67.6	1	F 25-29
-21	1109	Tiffany	Verbica	F	Felton	CA	US	45:00.0	45:00.0	7:15	43	70.9	1	F 40-44
-22	1118	Miles	Lindsay	M	Jolon	CA	US	45:20.0	45:20.0	7:18	47	64.6	3	M 45-49
-23	1338	Jose	Castillo	M	Santa Cruz	CA	US	45:45.0	45:45.0	7:22	45	63.0	4	M 45-49
-24	1179	Brian	Mitchler	M	Santa Cruz	CA	US	45:50.0	45:50.0	7:23	56	69.0	1	M 55-59
-25	1220	Philip	Knight	M	Ben Lomond	CA	US	46:15.0	46:15.0	7:27	32	57.9	3	M 30-34
-26	1067	Bradley	Bertossa	M	Fair Oaks	CA	US	46:32.0	46:32.0	7:29	14	60.6	2	M 13-18
-27	1138	Gunnar	Roll	M	Santa Cruz	CA	US	47:00.0	47:00.0	7:34	53	65.6	2	M 50-54
-28	1002	Rick	Ferrell	M	Aptos	CA	US	48:09.0	48:09.0	7:45	60	68.1	3	M 60-64
-29	1268	Kelly	Pulizzi	F	San Jose	CA	US	48:39.0	48:39.0	7:50	27	62.4	2	F 25-29
-30	1191	Kevin	McEntee	M	Scotts Valley	CA	US	49:01.0	49:01.0	7:53	54	63.4	3	M 50-54
-31	1108	tom	darbonne	M	Santa Cruz	CA	US	49:50.0	49:50.0	8:01	59	65.2	2	M 55-59
-32	1169	Shawnda	Rasco	F	Wichita Falls	TX	US	49:58.0	49:58.0	8:02	29	60.7	3	F 25-29
-33	1336	Shane	Vanderveen	M	Capitola	CA	US	50:09.0	50:09.0	8:04	40	55.3	2	M 40-44
-34	1206	Jennifer	Innes	F	Redwood City	CA	US	50:10.0	50:10.0	8:04	32	60.5	1	F 30-34
-35	1182	Julius	Ancheta	M	Long Beach	CA	US	51:45.0	51:45.0	8:20	35	52.1	2	M 35-39
-36	1103	Jess	Graves	F	Santa Cruz	CA	US	52:04.0	52:04.0	8:23	38	59.3	1	F 35-39
-37	1181	Dan	Aspromonte	M	Scotts Valley	CA	US	52:20.0	52:20.0	8:25	63	64.5	4	M 60-64
-38	1033	Stephen	Ohlsen	M	Santa Cruz	CA	US	53:10.0	53:10.0	8:33	25	50.3	4	M 25-29
-39	1137	Vanessa	Muniz	F	Morgan Hill	CA	US	53:10.0	53:10.0	8:33	36	57.6	2	F 35-39
-40	1180	Sarah	Mitchler	F	Santa Cruz	CA	US	53:45.0	53:45.0	8:39	24	56.4	3	F 19-24
-41	1177	Mark	Erdos	M	Los Gatos	CA	US	54:00.0	54:00.0	8:41	46	53.8	5	M 45-49
-42	1034	Aaron	Ferrucci	M	Santa Cruz	CA	US	54:06.0	54:06.0	8:42	54	57.5	4	M 50-54
-43	425	Mike	Kaspar	M	Los Gatos	CA	US	54:09.0	54:09.0	8:43	48	54.6	6	M 45-49
-44	1077	Lacey	Chimienti	F	Santa Cruz	CA	US	54:54.0	54:54.0	8:50	32	55.3	2	F 30-34
-45	1166	Tim	Lee	M	Milpitas	CA	US	54:57.0	54:57.0	8:51	37	49.5	3	M 35-39
-46	1264	Evan	Frink	M	Santa Cruz	CA	US	55:53.0	55:53.0	9:00	51	54.2	5	M 50-54
-47	1018	Christina	Schjelderup	F	Aptos	CA	US	55:56.0	55:56.0	9:00	36	54.8	3	F 35-39
-48	1021	Cara	Al-Lami	F	Soquel	CA	US	56:55.0	56:55.0	9:10	36	53.9	4	F 35-39
-49	1236	V.	Girish	M	San Jose	CA	US	57:15.0	57:15.0	9:13	11	53.7	1	M 1-12
-50	1124	William	Adkisson	M	Scotts Valley	CA	US	57:39.0	57:39.0	9:17	49	51.7	7	M 45-49
-51	1217	Dave	Numme	M	San Jose	CA	US	57:52.0	57:52.0	9:19	57	55.2	3	M 55-59
-52	1123	Livia	Peras	F	Aptos	CA	US	58:50.0	58:50.0	9:28	52	59.7	1	F 50-54
-53	1007	Alan	Wadsworth	M	Scotts Valley	CA	US	58:56.0	58:56.0	9:29	61	56.2	5	M 60-64
-54	1259	Tara	Pipia	F	San Jose	CA	US	59:50.0	59:50.0	9:38	44	53.7	2	F 40-44
-55	1078	Gary	Rochelle	M	Felton	CA	US	1:00:09.0	1:00:09.0	9:41	66	57.7	1	M 65-69
-56	1127	Jacqueline C	Ruiz	F	San Jose	CA	US	1:00:12.0	1:00:12.0	9:41	37	51.1	5	F 35-39
-57	1081	Donnell	Macnair	M	Ben Lomond	CA	US	1:00:33.0	1:00:33.0	9:45	72	61.2	1	M 70-74
-58	1079	Rich	Larson	M	Santa Cruz	CA	US	1:00:45.0	1:00:45.0	9:47	68	58.3	2	M 65-69
-59	1038	Anne	Birch	F	Santa Cruz	CA	US	1:04:00.0	1:04:00.0	10:18	53	55.5	2	F 50-54
-60	1036	Marianne	Ellis	F	Santa Cruz	CA	US	1:04:28.0	1:04:28.0	10:22	66	65.6	1	F 65-69
-61	1030	SKYE	Scheiblauer	F	Portland	OR	US	1:04:40.0	1:04:40.0	10:24	35	47.2	6	F 35-39
-62	1144	Chris	Nestlerode	M	Santa Cruz	CA	US	1:05:00.0	1:05:00.0	10:28	31	41.1	4	M 30-34
-63	1157	Corinne	Beck	F	Sunnyvale	CA	US	1:05:13.0	1:05:13.0	10:30	58	58.1	1	F 55-59
-64	1061	Mary	Gustus Straley	F	Santa Cruz	CA	US	1:05:26.0	1:05:26.0	10:32	55	55.7	2	F 55-59
-65	1251	Jay	Bedsworth	M	San Ramon	CA	US	1:07:00.0	1:07:00.0	10:47	54	46.4	6	M 50-54
-66	1128	Teddy	Rico	M	Gilroy	CA	US	1:07:39.0	1:07:39.0	10:53	51	44.8	7	M 50-54
-67	1129	Serena	Rico	F	Gilroy	CA	US	1:07:39.0	1:07:39.0	10:53	46	48.4	1	F 45-49
-68	1142	Patricia	Koren	F	Cupertino	CA	US	1:07:56.0	1:07:56.0	10:56	63	59.7	1	F 60-64
-69	1176	Emese	Erdos	F	Los Gatos	CA	US	1:08:00.0	1:08:00.0	10:57	41	46.2	3	F 40-44
-70	1139	Moe	Matsuo	F	Mountain View	CA	US	1:09:10.0	1:09:10.0	11:08	32	43.9	3	F 30-34
-71	1147	Ana	Martinez	F	Alameda	CA	US	1:13:00.0	1:13:00.0	11:45	32	41.6	4	F 30-34
-72	1148	Rodrigo	Picazo	M	Alameda	CA	US	1:13:00.0	1:13:00.0	11:45	38	37.5	4	M 35-39
-73	1028	Kris	Scheiblauer	M	Portland	OR	US	1:13:35.0	1:13:35.0	11:51	36	36.8	5	M 35-39
-74	1001	Betty	Bullaro	F	Santa Cruz	CA	US	1:13:38.3	1:13:38.3	11:51	69	60.1	2	F 65-69
-75	1203	Douglas	Couch	M	Scotts Valley	CA	US	1:13:51.4	1:13:51.4	11:53	50	40.7	8	M 50-54
-76	1102	Alicia	DeRollo	F	Santa Cruz	CA	US	1:14:13.3	1:14:13.3	11:57	41	42.4	4	F 40-44
-77	1133	Tim	Monahan	M	San Jose	CA	US	1:14:19.7	1:14:19.7	11:58	59	43.7	4	M 55-59
-78	1059	Sean	Mackin	M	San Jose	CA	US	1:14:36.2	1:14:36.2	12:00	56	42.4	5	M 55-59
-79	1010	Kate	Pohl	F	Aptos	CA	US	1:14:44.0	1:14:44.0	12:02	66	56.6	3	F 65-69
-80	1167	dave	resneck-sannes	M	Santa Cruz	CA	US	1:14:53.9	1:14:53.9	12:03	75	51.8	1	M 75-99
-81	1092	Gregory	Bowers	M	Santa Fe	NM	US	1:14:55.3	1:14:55.3	12:03	36	36.1	6	M 35-39
-82	1060	Cynthia	Truong	F	San Jose	CA	US	1:14:59.4	1:14:59.4	12:04	45	43.3	2	F 45-49
-83	1056	Amy	Schaumburg	F	Campbell	CA	US	1:14:59.4	1:14:59.4	12:04	48	44.7	3	F 45-49
-84	1205	Benjamin	Couch	M	Scotts Valley	CA	US	1:15:06.8	1:15:06.8	12:05	13	38.4	3	M 13-18
-85	1054	Debby	Joyce	F	Santa Cruz	CA	US	1:15:18.2	1:15:18.2	12:07	65	55.4	4	F 65-69
-86	1250	Sheree	Escoto	F	Aptos	CA	US	1:15:21.9	1:15:21.9	12:08	42	42.0	5	F 40-44
-87	1240	Hita	Bhagat	F	Los Altos	CA	US	1:15:54.5	1:15:54.5	12:13	24	40.0	4	F 19-24
-88	1230	Mahesh	Bhagat	M	Los Altos	CA	US	1:15:54.8	1:15:54.8	12:13	59	42.8	6	M 55-59
-89	427	Nilima	Dave	F	Los Gatos	CA	US	1:15:54.9	1:15:54.9	12:13	48	44.1	4	F 45-49
-90	1202	Jody	Couch	F	Scotts Valley	CA	US	1:15:57.3	1:15:57.3	12:13	41	41.4	6	F 40-44
-91	1172	Kaylee	Leandro	F	San Jose	CA	US	1:16:29.6	1:16:29.6	12:19	23	39.7	5	F 19-24
-92	1135	Sabrina	Tilley	F	Rancho Cordova	CA	US	1:17:23.4	1:17:23.4	12:27	34	39.4	5	F 30-34
-93	1043	Nadia	Al-Lami	F	Santa Cruz	CA	US	1:17:33.4	1:17:33.4	12:29	34	39.3	6	F 30-34
-94	1042	Robert	Tidmore	M	Santa Cruz	CA	US	1:17:45.2	1:17:45.2	12:31	37	35.0	7	M 35-39
-95	1057	Callie	Dilloughery	F	Soquel	CA	US	1:17:46.9	1:17:46.9	12:31	33	39.1	7	F 30-34
-96	1022	David	Al-Lami	M	Soquel	CA	US	1:17:57.7	1:17:57.7	12:33	38	35.1	8	M 35-39
-97	1214	David	Campbell	M	Soquel	CA	US	1:18:08.0	1:18:08.0	12:34	74	48.8	2	M 70-74
-98	1219	Elliott	Campbell	M	Capitola	CA	US	1:18:08.3	1:18:08.3	12:35	43	36.3	3	M 40-44
-99	1303	David	Borders	M	Santa Cruz	CA	US	1:18:51.8	1:18:51.8	12:42	58	40.8	7	M 55-59
-100	1086	Shawn	O'Leary	M	Alamo	CA	US	1:19:01.0	1:19:01.0	12:43	54	39.3	9	M 50-54
-101	1073	L.	Bloom	M	Scotts Valley	CA	US	1:19:07.1	1:19:07.1	12:44	12	37.5	2	M 1-12
-102	1072	Kristin	Penaskovic	F	Santa Cruz	CA	US	1:19:08.4	1:19:08.4	12:44	47	41.8	5	F 45-49
-103	1071	Jenny	Bloom	F	Scotts Valley	CA	US	1:19:21.2	1:19:21.2	12:46	48	42.2	6	F 45-49
-104	1154	Agnes	Smith	F	Davenport	CA	US	1:19:57.2	1:19:57.2	12:52	27	37.9	4	F 25-29
-105	1162	Butch	Huff	M	Santa Cruz	CA	US	1:19:57.6	1:19:57.6	12:52	64	42.6	6	M 60-64
-106	1011	Julie	Colwell	F	Sunnyvale	CA	US	1:20:07.3	1:20:07.3	12:54	47	41.3	7	F 45-49
-107	1115	Mike	Brenner	M	Santa Cruz	CA	US	1:20:14.1	1:20:14.1	12:55	63	42.0	7	M 60-64
-108	1009	Jessica	Frankl	F	Santa Cruz	CA	US	1:20:23.8	1:20:23.8	12:56	42	39.4	7	F 40-44
-109	1082	Beth	Cannon	F	Phoenix	AZ	US	1:20:32.5	1:20:32.5	12:58	28	37.7	5	F 25-29
-110	1258	Tammy	Brabant	F	San Jose	CA	US	1:21:02.5	1:21:02.5	13:03	58	46.7	3	F 55-59
-111	1053	Paula	Goldman	F	Santa Cruz	CA	US	1:21:25.1	1:21:25.1	13:06	70	55.2	1	F 70-74
-112	1083	Eric	Cannon	M	Broomfield	CO	US	1:22:06.3	1:22:06.3	13:13	58	39.2	8	M 55-59
-113	1256	S.	Davis	M	Santa Cruz	CA	US	1:22:06.7	1:22:06.7	13:13	9	40.8	3	M 1-12
-114	1244	Stephen	Davis	M	Santa Cruz	CA	US	1:22:08.0	1:22:08.0	13:13	49	36.3	8	M 45-49
-115	1091	Lewis	Cramer	M	Los Gatos	CA	US	1:22:33.5	1:22:33.5	13:17	72	44.9	3	M 70-74
-116	1031	Rebecca	Scheiblauer	F	Santa Cruz	CA	US	1:22:42.2	1:22:42.2	13:19	38	37.4	7	F 35-39
-117	1090	Cherryll	Sevy	F	Los Gatos	CA	US	1:23:20.3	1:23:20.3	13:25	70	53.9	2	F 70-74
-118	1063	Mike	Sengir	M	San Jose	CA	US	1:23:21.4	1:23:21.4	13:25	70	43.4	4	M 70-74
-119	1224	Sara	Farmer	F	Englewood	CO	US	1:23:59.0	1:23:59.0	13:31	36	36.5	8	F 35-39
-120	1119	Christy	Mandon	F	Capitola	CA	US	1:24:33.5	1:24:33.5	13:37	35	36.1	9	F 35-39
-121	1208	Christopher	Murray	M	Aptos	CA	US	1:25:02.3	1:25:02.3	13:41	62	39.3	8	M 60-64
-122	1120	Mary	Gaukel	F	Capitola	CA	US	1:25:13.7	1:25:13.7	13:43	68	51.1	5	F 65-69
-123	1238	Stephanie	Messina	F	San Jose	CA	US	1:25:20.0	1:25:20.0	13:44	65	48.9	6	F 65-69
-124	1284	De Leys	Hamm	F	Sunnyvale	CA	US	1:26:01.0	1:26:01.0	13:51	28	35.3	6	F 25-29
-125	1087	Patricia	Ramsay	F	Alamo	CA	US	1:26:05.9	1:26:05.9	13:51	52	40.8	3	F 50-54
-126	1058	Donald	Dickey	M	San Jose	CA	US	1:26:07.9	1:26:07.9	13:52	62	38.8	9	M 60-64
-127	1282	Melisse	Morris	F	Great Barrington	MA	US	1:26:21.8	1:26:21.8	13:54	35	35.4	10	F 35-39
-128	1305	Juergen	Hoehne	M	Berkeley	CA	US	1:26:22.1	1:26:22.1	13:54	56	36.6	9	M 55-59
-129	1130	George	Mageles	M	Saratoga	CA	US	1:26:27.5	1:26:27.5	13:55	65	39.8	3	M 65-69
-130	1196	Dave	Dawson	M	Santa Cruz	CA	US	1:26:57.9	1:26:57.9	14:00	63	38.8	10	M 60-64
-131	1207	Dorene	Dawson	F	Santa Cruz	CA	US	1:26:58.0	1:26:58.0	14:00	49	38.9	8	F 45-49
-132	1070	R.	Mazzurek	F	Aptos	CA	US	1:27:02.4	1:27:02.4	14:00	9	42.8	1	F 1-12
-133	1069	Heather	Faust	F	Aptos	CA	US	1:27:24.6	1:27:24.6	14:04	44	36.8	8	F 40-44
-134	1068	Anonymous	Participant	F	Santa Cruz	CA	US	1:27:30.8	1:27:30.8	14:05	47	37.8	9	F 45-49
-135	1257	Kevin	Brabant	M	San Jose	CA	US	1:27:41.7	1:27:41.7	14:07	56	36.1	10	M 55-59
-136	1089	Marie	Pinson	F	San Jose	CA	US	1:28:17.2	1:28:17.2	14:13	61	44.6	2	F 60-64
-137	1013	Gary	Kohler	M	SoquelSoquel	CA	US	1:30:00.0	1:30:00.0	14:29	66	38.6	4	M 65-69
-138	1017	donna	landacre	F	Santa Cruz	CA	US	1:30:00.0	1:30:00.0	14:29	49	37.6	10	F 45-49
-139	1306	Matinez	Andres	M	Watsonville	CA	US	1:31:07.3	1:31:07.3	14:40	39	30.2	9	M 35-39
-140	1121	Les	Forster	M	Capitola	CA	US	1:31:29.3	1:31:29.3	14:43	65	37.6	5	M 65-69
-141	1014	Jill	Eklund	F	Santa Cruz	CA	US	1:32:04.6	1:32:04.6	14:49	55	39.6	4	F 55-59
-142	1015	Erick	Eklund	M	Santa Cruz	CA	US	1:32:09.9	1:32:09.9	14:50	56	34.3	11	M 55-59
-143	1012	Kate	Borelli	F	Aptos	CA	US	1:32:10.4	1:32:10.4	14:50	46	35.5	11	F 45-49
-144	1283	Jonelle	Badger	F	Santa Cruz	CA	US	1:32:38.1	1:32:38.1	14:54	37	33.2	11	F 35-39
-145	1016	william	debroekert	M	Santa Cruz	CA	US	1:33:41.9	1:33:41.9	15:05	75	41.4	2	M 75-99
-146	1150	Paul	Beck	M	Sunnyvale	CA	US	1:33:47.8	1:33:47.8	15:06	65	36.7	6	M 65-69
-147	1062	Kian	Toohey	M	Santa Cruz	CA	US	1:35:46.1	1:35:46.1	15:25	17	28.1	4	M 13-18
-148	1343	Ron	Goodman	M	Santa Cruz	CA	US	1:35:59.1	1:35:59.1	15:27	53	32.1	10	M 50-54
-149	1213	Teresa	Scofield	F	Watsonville	CA	US	1:40:25.9	1:40:25.9	16:10	61	39.2	3	F 60-64
-150	1228	Linda	Atlansky	F	Soquel	CA	US	1:40:26.4	1:40:26.4	16:10	62	39.8	4	F 60-64
-151	1110	Peter	Verbica	M	Felton	CA	US	1:41:30.1	1:41:30.1	16:20	58	31.7	12	M 55-59
-152	1136	Tom	McGrath	M	San Jose	CA	US	1:43:48.4	1:43:48.4	16:42	66	33.4	7	M 65-69
-153	1152	Debbie	Mutton	F	Las Vegas	NV	US	10:00:38.0	10:00:38.0	36:40	62	6.7	5	F 60-64
+9	1355	Javier	Naranjo	M	Soquel	CA	US	41:00.0	41:00.0	6:36	60	80.0	1	M 60-64
+10	1041	Amaro	H. Dominguez	M	Capitola	CA	US	41:40.0	41:40.0	6:42	36	65.0	2	M 35-39
+11	1339	paul	kane	M	watsonville	CA	US	42:06.0	42:06.0	6:47	17	64.0	1	M 13-18
+12	1253	Benjamin	Iles	M	Menlo Park	CA	US	42:18.0	42:18.0	6:48	32	63.3	2	M 30-34
+13	1164	Indy	Reid-Shaw	F	Santa Cruz	CA	US	42:22.0	42:22.0	6:49	24	71.6	2	F 19-24
+14	1076	John	Dawson	M	Santa Cruz	CA	US	42:22.0	42:22.0	6:49	22	63.1	3	M 19-24
+15	1188	Paddy	McFall	M	Santa Cruz	CA	US	43:04.0	43:04.0	6:56	28	62.0	2	M 25-29
+16	1160	Ryan	Brady	M	Santa Cruz	CA	US	43:21.0	43:21.0	6:59	42	64.9	1	M 40-44
+17	1261	patrick	williams	M	Soquel	CA	US	43:50.0	43:50.0	7:03	46	66.3	2	M 45-49
+18	1269	Krishna	Mullia	M	Campbell	CA	US	44:07.0	44:07.0	7:06	27	60.6	3	M 25-29
+19	1140	Kevn	Hunter	M	San Jose	CA	US	44:35.0	44:35.0	7:10	61	74.2	2	M 60-64
+20	1221	Gabby	Hughes	F	Santa Cruz	CA	US	44:36.0	44:36.0	7:11	17	69.7	1	F 13-18
+21	1107	Sophia	Ditty	F	Santa Cruz	CA	US	44:48.0	44:48.0	7:13	29	67.7	1	F 25-29
+22	1080	Steven	Occhipinti	M	Felton	CA	US	44:50.0	44:50.0	7:13	64	75.9	3	M 60-64
+23	1109	Tiffany	Verbica	F	Felton	CA	US	45:00.0	45:00.0	7:15	43	70.9	1	F 40-44
+24	1118	Miles	Lindsay	M	Jolon	CA	US	45:20.0	45:20.0	7:18	47	64.6	3	M 45-49
+25	1338	Jose	Castillo	M	Santa Cruz	CA	US	45:45.0	45:45.0	7:22	45	63.0	4	M 45-49
+26	1225	Casey	Kennedy	F	Mountain View	CA	US	45:46.0	45:46.0	7:22	32	66.4	1	F 30-34
+27	1179	Brian	Mitchler	M	Santa Cruz	CA	US	45:50.0	45:50.0	7:23	56	69.0	1	M 55-59
+28	1088	Peter	Truman	M	Watsonville	CA	US	45:56.0	45:56.0	7:24	59	70.8	2	M 55-59
+29	1220	Philip	Knight	M	Ben Lomond	CA	US	46:15.0	46:15.0	7:27	32	57.9	3	M 30-34
+30	1062	Kian	Toohey	M	Santa Cruz	CA	US	46:16.0	46:16.0	7:27	17	58.2	2	M 13-18
+31	1267	Eric	Covotta	M	San Jose	CA	US	46:18.0	46:18.0	7:27	42	60.8	2	M 40-44
+32	1186	Kayleigh	Burke	F	Santa Clara	CA	US	46:22.0	46:22.0	7:28	24	65.4	3	F 19-24
+33	1067	Bradley	Bertossa	M	Fair Oaks	CA	US	46:32.0	46:32.0	7:29	14	60.6	3	M 13-18
+34	1131	Kent	Bernat	M	Los Gatos	CA	US	46:42.0	46:42.0	7:31	61	70.9	4	M 60-64
+35	1138	Gunnar	Roll	M	Santa Cruz	CA	US	47:00.0	47:00.0	7:34	53	65.6	2	M 50-54
+36	1340	Bobby	McKee	M	Watsonville	CA	US	47:02.0	47:02.0	7:34	70	76.9	1	M 70-74
+37	1263	Colton	Birss	M	Santa Cruz	CA	US	48:08.0	48:08.0	7:45	30	55.5	4	M 30-34
+38	1002	Rick	Ferrell	M	Aptos	CA	US	48:09.0	48:09.0	7:45	60	68.1	5	M 60-64
+39	1045	Patrick	Doughty	M	San Jose	CA	US	48:16.0	48:16.0	7:46	54	64.4	3	M 50-54
+40	1268	Kelly	Pulizzi	F	San Jose	CA	US	48:39.0	48:39.0	7:50	27	62.4	2	F 25-29
+41	1262	Alysha	Birss	F	Santa Cruz	CA	US	48:40.0	48:40.0	7:50	30	62.3	2	F 30-34
+42	1122	Daniel	Shen	M	Santa Cruz	CA	US	48:42.0	48:42.0	7:50	57	65.5	3	M 55-59
+43	1191	Kevin	McEntee	M	Scotts Valley	CA	US	49:01.0	49:01.0	7:53	54	63.4	4	M 50-54
+44	1108	tom	darbonne	M	Santa Cruz	CA	US	49:50.0	49:50.0	8:01	59	65.2	4	M 55-59
+45	1234	Mario	Desantis	M	Felton	CA	US	49:54.0	49:54.0	8:02	23	53.5	4	M 19-24
+46	1169	Shawnda	Rasco	F	Wichita Falls	TX	US	49:58.0	49:58.0	8:02	29	60.7	3	F 25-29
+47	1336	Shane	Vanderveen	M	Capitola	CA	US	50:09.0	50:09.0	8:04	40	55.3	3	M 40-44
+48	1206	Jennifer	Innes	F	Redwood City	CA	US	50:10.0	50:10.0	8:04	32	60.5	3	F 30-34
+49	1163	Mari	Friedman	M	Santa Cruz	CA	US	50:12.0	50:12.0	8:05	19	53.2	5	M 19-24
+50	1099	Christie Loguzzo	Pearson	F	Santa Cruz	CA	US	50:44.0	50:44.0	8:10	40	61.6	2	F 40-44
+51	1215	Monique	Silva Davila	F	Aptos	CA	US	50:58.0	50:58.0	8:12	37	60.4	1	F 35-39
+52	1255	Esperanza	Gutiérrez	F	Watsonville	CA	US	51:00.0	51:00.0	8:12	39	60.9	2	F 35-39
+53	1265	William	Menchine	M	Santa Cruz	CA	US	51:18.0	51:18.0	8:15	64	66.4	6	M 60-64
+54	1050	Catherine	Philipovitch	F	Santa Cruz	CA	US	51:22.0	51:22.0	8:16	51	67.5	1	F 50-54
+55	1354	john	sliney	M	Santa Cruz	CA	US	51:24.0	51:24.0	8:16	61	64.4	7	M 60-64
+56	1279	Edwin	Hutchins	M	Scotts Valley	CA	US	51:44.0	51:44.0	8:20	65	66.5	1	M 65-69
+57	1182	Julius	Ancheta	M	Long Beach	CA	US	51:45.0	51:45.0	8:20	35	52.1	3	M 35-39
+58	1192	Kelly	McEntee	F	Scotts Valley	CA	US	52:02.0	52:02.0	8:22	18	58.9	2	F 13-18
+59	1103	Jess	Graves	F	Santa Cruz	CA	US	52:04.0	52:04.0	8:23	38	59.3	3	F 35-39
+60	1199	HECTOR	RODRIGUEZ	M	San Jose	CA	US	52:10.0	52:10.0	8:24	28	51.2	4	M 25-29
+61	1235	Else	Green	F	Los gatos	CA	US	52:10.0	52:10.0	8:24	50	65.7	2	F 50-54
+62	1181	Dan	Aspromonte	M	Scotts Valley	CA	US	52:20.0	52:20.0	8:25	63	64.5	8	M 60-64
+63	1189	Bri	Rudolph	F	Soquel	CA	US	52:22.0	52:22.0	8:26	34	58.2	4	F 30-34
+64	1153	Kathy	Wiles	F	Soquel	CA	US	52:24.0	52:24.0	8:26	38	59.0	4	F 35-39
+65	1022	David	Al-Lami	M	Soquel	CA	US	52:36.0	52:36.0	8:28	38	52.0	4	M 35-39
+66	1043	Nadia	Al-Lami	F	Santa Cruz	CA	US	52:36.0	52:36.0	8:28	34	57.9	5	F 30-34
+67	1159	Arturo	Rivera	M	Santa Cruz	CA	US	52:54.0	52:54.0	8:31	56	59.8	5	M 55-59
+68	1033	Stephen	Ohlsen	M	Santa Cruz	CA	US	53:10.0	53:10.0	8:33	25	50.3	5	M 25-29
+69	1137	Vanessa	Muniz	F	Morgan Hill	CA	US	53:10.0	53:10.0	8:33	36	57.6	5	F 35-39
+70	1185	Greg	Murphy	M	San Jose	CA	US	53:12.0	53:12.0	8:34	33	50.4	5	M 30-34
+71	1195	GUOJUN	TAN	M	Santa Cruz	CA	US	53:14.0	53:14.0	8:34	44	53.7	4	M 40-44
+72	1074	Michael	Buell	M	Santa Cruz	CA	US	53:34.0	53:34.0	8:37	44	53.4	5	M 40-44
+73	1180	Sarah	Mitchler	F	Santa Cruz	CA	US	53:45.0	53:45.0	8:39	24	56.4	4	F 19-24
+74	1249	Tammy	Witschger	F	Santa Cruz	CA	US	53:46.0	53:46.0	8:39	42	58.9	3	F 40-44
+75	1343	Ron	Goodman	M	Santa Cruz	CA	US	53:46.0	53:46.0	8:39	53	57.3	5	M 50-54
+76	1177	Mark	Erdos	M	Los Gatos	CA	US	54:00.0	54:00.0	8:41	46	53.8	5	M 45-49
+77	1034	Aaron	Ferrucci	M	Santa Cruz	CA	US	54:06.0	54:06.0	8:42	54	57.5	6	M 50-54
+78	425	Mike	Kaspar	M	Los Gatos	CA	US	54:09.0	54:09.0	8:43	48	54.6	6	M 45-49
+79	1347	Felix	Pio	M	Santa Cruz	CA	US	54:22.0	54:22.0	8:45	46	53.5	7	M 45-49
+80	1077	Lacey	Chimienti	F	Santa Cruz	CA	US	54:32.0	54:32.0	8:47	32	55.7	6	F 30-34
+81	1229	Cary	Anderson	M	Los Altos	CA	US	54:38.0	54:38.0	8:48	58	58.9	6	M 55-59
+82	1242	Meg	Sloan	F	Menlo Park	CA	US	54:44.0	54:44.0	8:49	48	61.2	1	F 45-49
+83	1287	Geoffrey	Tibbitts	M	Monterey	CA	US	54:54.0	54:54.0	8:50	55	57.1	7	M 55-59
+84	1166	Tim	Lee	M	Milpitas	CA	US	54:57.0	54:57.0	8:51	37	49.5	5	M 35-39
+85	1019	tristan	rhodes	M	Santa Cruz	CA	US	54:58.0	54:58.0	8:51	39	50.1	6	M 35-39
+86	1232	Sean	Nestlerode	M	Aptos	CA	US	55:16.0	55:16.0	8:54	53	55.8	7	M 50-54
+87	1337	Brian	Claassen	M	Scotts Valley	CA	US	55:20.0	55:20.0	8:54	53	55.7	8	M 50-54
+88	1096	Glenn	Hodda	M	Sydney		AU	55:28.0	55:28.0	8:56	58	58.1	8	M 55-59
+89	1304	Luke	Debrito	M	Aptos	CA	US	55:30.0	55:30.0	8:56	31	48.2	6	M 30-34
+90	1264	Evan	Frink	M	Santa Cruz	CA	US	55:53.0	55:53.0	9:00	51	54.2	9	M 50-54
+91	1018	Christina	Schjelderup	F	Aptos	CA	US	55:56.0	55:56.0	9:00	36	54.8	6	F 35-39
+92	1035	Allie	Wright	F	Scotts Valley	CA	US	55:56.0	55:56.0	9:00	20	54.2	5	F 19-24
+93	1174	William	Morris	M	San Jose	CA	US	56:10.0	56:10.0	9:02	48	52.6	8	M 45-49
+94	1175	Tommy	Lomelin	M	San Jose	CA	US	56:10.0	56:10.0	9:02	54	55.3	10	M 50-54
+95	1173	Tshombe	Smith	M	San Jose	CA	US	56:16.0	56:16.0	9:03	50	53.4	11	M 50-54
+96	1227	David	Scholar	M	Santa Cruz	CA	US	56:26.0	56:26.0	9:05	55	55.6	9	M 55-59
+97	1021	Cara	Al-Lami	F	Soquel	CA	US	56:46.0	56:46.0	9:08	36	54.0	7	F 35-39
+98	1350	Elizabeth	Sanders	F	Santa Cruz	CA	US	56:46.0	56:46.0	9:08	55	64.2	1	F 55-59
+99	1226	Joachim	Limburg	M	Campbell	CA	US	56:52.0	56:52.0	9:09	58	56.6	10	M 55-59
+100	1097	Rafferty	Hodda	M	Sydney		AU	56:54.0	56:54.0	9:09	17	47.4	4	M 13-18
+101	1051	Kelly	Philipovitch	F	Santa Cruz	CA	US	57:00.0	57:00.0	9:10	18	53.8	3	F 13-18
+102	1237	Girish	Venkitachalam	M	San Jose	CA	US	57:00.0	57:00.0	9:10	49	52.3	9	M 45-49
+103	1307	Edmund	Marcum	M	Greenbrae	CA	US	57:00.0	57:00.0	9:10	51	53.2	12	M 50-54
+104	1236	V.	Girish	M	San Jose	CA	US	57:15.0	57:15.0	9:13	11	53.7	1	M 1-12
+105	1023	Cattalen	annulli-pelard	F	Los Gatos	CA	US	57:20.0	57:20.0	9:14	43	55.6	4	F 40-44
+106	1270	Ian	Klassen	M	Campbell	CA	US	57:32.0	57:32.0	9:16	48	51.4	10	M 45-49
+107	1124	William	Adkisson	M	Scotts Valley	CA	US	57:40.0	57:40.0	9:17	49	51.6	11	M 45-49
+108	1158	Helmut	Roesner	M	San Jose	CA	US	57:44.0	57:44.0	9:17	50	52.0	13	M 50-54
+109	1218	Catherine	Frye	F	Campbell	CA	US	57:48.0	57:48.0	9:18	58	65.5	2	F 55-59
+110	1217	Dave	Numme	M	San Jose	CA	US	57:52.0	57:52.0	9:19	57	55.2	11	M 55-59
+111	1245	bob	garner	M	Santa Cruz	CA	US	57:54.0	57:54.0	9:19	61	57.2	9	M 60-64
+112	1254	Carlos	Zamudio	M	Watsonville	CA	US	57:54.0	57:54.0	9:19	38	47.2	7	M 35-39
+113	1055	Amy	Radovan	F	Santa Cruz	CA	US	58:02.0	58:02.0	9:20	50	59.0	3	F 50-54
+114	1212	Rafe	Karen	M	New York	NY	US	58:12.0	58:12.0	9:22	26	45.9	6	M 25-29
+115	1222	Hailey	Roumimper	F	Scotts Valley	CA	US	58:14.0	58:14.0	9:22	26	52.1	4	F 25-29
+116	1132	Rachel	Follo	F	Marina	CA	US	58:20.0	58:20.0	9:23	24	52.0	6	F 19-24
+117	1342	Henry	Montes	M	Aptos	CA	US	58:22.0	58:22.0	9:24	54	53.3	14	M 50-54
+118	1352	thomas	kang	M	san leandro	CA	US	58:22.0	58:22.0	9:24	57	54.7	12	M 55-59
+119	1040	Rachel	Marcuson	F	Santa Cruz	CA	US	58:24.0	58:24.0	9:24	31	51.9	7	F 30-34
+120	1008	David	Rivas	M	Watsonville	CA	US	58:36.0	58:36.0	9:26	42	48.0	6	M 40-44
+121	1231	Ines	Steinhauer	F	Boulder Creek	CA	US	58:38.0	58:38.0	9:26	36	52.3	8	F 35-39
+122	1123	Livia	Peras	F	Aptos	CA	US	58:46.0	58:46.0	9:27	52	59.7	4	F 50-54
+123	1007	Alan	Wadsworth	M	Scotts Valley	CA	US	58:56.0	58:56.0	9:29	61	56.2	10	M 60-64
+124	1066	Brian	Bertossa	M	Fair Oaks	CA	US	59:14.0	59:14.0	9:32	56	53.4	13	M 55-59
+125	1111	Ava	Darbonne	F	Santa Cruz	CA	US	59:18.0	59:18.0	9:33	15	54.2	4	F 13-18
+126	1085	Kalin	McGraw	F	Santa Cruz	CA	US	59:30.0	59:30.0	9:35	41	52.8	5	F 40-44
+127	1048	Sally	Ghilarducci	F	Santa Cruz	CA	US	59:38.0	59:38.0	9:36	46	54.9	2	F 45-49
+128	1052	Emma	Kleck	F	Santa Cruz	CA	US	59:40.0	59:40.0	9:36	25	50.8	5	F 25-29
+129	1259	Tara	Pipia	F	San Jose	CA	US	59:50.0	59:50.0	9:38	44	53.7	6	F 40-44
+130	1151	Matt	Heusman	M	Lincoln	NE	US	1:00:00.0	1:00:00.0	9:39	45	48.1	12	M 45-49
+131	1078	Gary	Rochelle	M	Felton	CA	US	1:00:04.0	1:00:04.0	9:40	66	57.8	2	M 65-69
+132	1200	Rebecca	Pacheco	F	Santa Clara	CA	US	1:00:08.0	1:00:08.0	9:41	57	62.2	3	F 55-59
+133	1127	Jacqueline C	Ruiz	F	San Jose	CA	US	1:00:12.0	1:00:12.0	9:41	37	51.1	9	F 35-39
+134	1114	Karlyn	Patterson	F	Salinas	CA	US	1:00:12.0	1:00:12.0	9:41	31	50.4	8	F 30-34
+135	1113	Arturo	Fraide	M	Salinas	CA	US	1:00:14.0	1:00:14.0	9:42	28	44.4	7	M 25-29
+136	1165	Jesus	Santillan	M	Saratoga	CA	US	1:00:18.0	1:00:18.0	9:42	38	45.4	8	M 35-39
+137	1152	Debbie	Mutton	F	Las Vegas	NV	US	1:00:30.0	1:00:30.0	9:44	62	66.1	1	F 60-64
+138	1004	Nina	Turk	F	Aptos	CA	US	1:00:32.0	1:00:32.0	9:45	33	50.2	9	F 30-34
+139	1081	Donnell	Macnair	M	Ben Lomond	CA	US	1:00:33.0	1:00:33.0	9:45	72	61.2	2	M 70-74
+140	1079	Rich	Larson	M	Santa Cruz	CA	US	1:00:45.0	1:00:45.0	9:47	68	58.3	3	M 65-69
+141	1197	Matt	Byers	M	Fresno	CA	US	1:00:54.0	1:00:54.0	9:48	52	50.2	15	M 50-54
+142	1209	Susan	Spencer	F	Fresno	CA	US	1:01:08.0	1:01:08.0	9:50	49	55.4	3	F 45-49
+143	1349	rob	kirchenbauer	M	Santa Cruz	CA	US	1:01:18.0	1:01:18.0	9:52	44	46.7	7	M 40-44
+144	1049	Karl	Philipovitch	M	Santa Cruz	CA	US	1:01:20.0	1:01:20.0	9:52	50	49.0	16	M 50-54
+145	1210	Nash	Solano	M	Santa Cruz	CA	US	1:01:26.0	1:01:26.0	9:53	41	45.5	8	M 40-44
+146	1345	debbie	romero	F	watsonville	CA	US	1:01:28.0	1:01:28.0	9:54	49	55.1	4	F 45-49
+147	1136	Tom	McGrath	M	San Jose	CA	US	1:01:30.0	1:01:30.0	9:54	66	56.4	4	M 65-69
+148	1135	Sabrina	Tilley	F	Rancho Cordova	CA	US	1:01:30.0	1:01:30.0	9:54	34	49.5	10	F 30-34
+149	1216	John	Busco	M	San Jose	CA	US	1:01:36.0	1:01:36.0	9:55	56	51.4	14	M 55-59
+150	1095	Elizabeth	Chatwin	F	Sydney		AU	1:01:42.0	1:01:42.0	9:56	54	58.3	5	F 50-54
+151	1187	Kevin	Nice Jr.	M	Watsonville	CA	US	1:01:46.0	1:01:46.0	9:56	29	43.3	8	M 25-29
+152	1178	Thom	Nelson	M	Santa Cruz	CA	US	1:01:52.0	1:01:52.0	9:57	48	47.8	13	M 45-49
+153	1341	zaida	soriano	F	cupertino	CA	US	1:01:54.0	1:01:54.0	9:58	49	54.7	5	F 45-49
+154	1168	Sandy	Peracchi	F	Fresno	CA	US	1:02:02.0	1:02:02.0	9:59	50	55.2	6	F 50-54
+155	1133	Tim	Monahan	M	San Jose	CA	US	1:02:08.0	1:02:08.0	10:00	59	52.3	15	M 55-59
+156	1047	Jack	Mullis	M	Santa Cruz	CA	US	1:02:20.0	1:02:20.0	10:02	42	45.2	9	M 40-44
+157	1141	Felicitas	Garcia	F	Watsonville	CA	US	1:02:20.0	1:02:20.0	10:02	43	51.1	7	F 40-44
+158	1046	Stacey	Stringer	F	Santa Cruz	CA	US	1:02:22.0	1:02:22.0	10:02	41	50.4	8	F 40-44
+159	1351	Dennis	Gagne	M	Scotts Valley	CA	US	1:03:02.0	1:03:02.0	10:09	61	52.5	11	M 60-64
+160	1285	John	Ceideburg	M	Santa Cruz	CA	US	1:03:24.0	1:03:24.0	10:12	52	48.2	17	M 50-54
+161	1248	coleen	marcus	F	Santa Cruz	CA	US	1:03:36.0	1:03:36.0	10:14	24	47.7	7	F 19-24
+162	1243	Kevin	Gallagher	M	Santa Cruz	CA	US	1:03:50.0	1:03:50.0	10:16	61	51.9	12	M 60-64
+163	1057	Callie	Dilloughery	F	Soquel	CA	US	1:04:20.0	1:04:20.0	10:21	33	47.3	11	F 30-34
+164	427	Nilima	Dave	F	Los Gatos	CA	US	1:04:24.0	1:04:24.0	10:22	48	52.0	6	F 45-49
+165	1036	Marianne	Ellis	F	Santa Cruz	CA	US	1:04:28.0	1:04:28.0	10:22	66	65.6	1	F 65-69
+166	1353	russ	smyth	M	Santa Cruz	CA	US	1:04:32.0	1:04:32.0	10:23	58	49.9	16	M 55-59
+167	1252	Kaz	Shaikh	M	Cupertino	CA	US	1:04:48.0	1:04:48.0	10:26	51	46.8	18	M 50-54
+168	1101	Larry	Miller	M	Scotts Valley	CA	US	1:04:54.0	1:04:54.0	10:27	39	42.4	9	M 35-39
+169	1190	Riley	Kabanek	F	Aptos	CA	US	1:04:58.0	1:04:58.0	10:27	14	50.4	5	F 13-18
+170	1144	Chris	Nestlerode	M	Santa Cruz	CA	US	1:05:00.0	1:05:00.0	10:28	31	41.1	7	M 30-34
+171	1280	Lucia	Munoz	F	Watsonville	CA	US	1:05:00.0	1:05:00.0	10:28	37	47.3	10	F 35-39
+172	1266	Amy	Leonard	F	Los Gatos	CA	US	1:05:12.0	1:05:12.0	10:30	35	46.9	11	F 35-39
+173	1157	Corinne	Beck	F	Sunnyvale	CA	US	1:05:13.0	1:05:13.0	10:30	58	58.1	4	F 55-59
+174	1061	Mary	Gustus Straley	F	Santa Cruz	CA	US	1:05:26.0	1:05:26.0	10:32	55	55.7	5	F 55-59
+175	1030	SKYE	Scheiblauer	F	Portland	OR	US	1:05:54.0	1:05:54.0	10:36	35	46.4	12	F 35-39
+176	1032	Hiram	Clawson	M	Santa Cruz	CA	US	1:06:20.0	1:06:20.0	10:41	68	53.4	5	M 65-69
+177	1024	Mick	Wiley	M	Monterey	CA	US	1:06:40.0	1:06:40.0	10:44	55	47.1	17	M 55-59
+178	1093	Dorothy	Bowers Wu	F	Santa Fe	NM	US	1:06:40.0	1:06:40.0	10:44	38	46.4	13	F 35-39
+179	1094	Albert	Wu	M	San Mateo	CA	US	1:06:40.0	1:06:40.0	10:44	37	40.8	10	M 35-39
+180	1201	Myron	Smith	M	Campbell	CA	US	1:06:56.0	1:06:56.0	10:46	79	62.6	1	M 75-99
+181	1251	Jay	Bedsworth	M	San Ramon	CA	US	1:07:00.0	1:07:00.0	10:47	54	46.4	19	M 50-54
+182	1303	David	Borders	M	Santa Cruz	CA	US	1:07:20.0	1:07:20.0	10:50	58	47.8	18	M 55-59
+183	1128	Teddy	Rico	M	Gilroy	CA	US	1:07:39.0	1:07:39.0	10:53	51	44.8	20	M 50-54
+184	1129	Serena	Rico	F	Gilroy	CA	US	1:07:39.0	1:07:39.0	10:53	46	48.4	7	F 45-49
+185	1142	Patricia	Koren	F	Cupertino	CA	US	1:07:56.0	1:07:56.0	10:56	63	59.7	2	F 60-64
+186	1176	Emese	Erdos	F	Los Gatos	CA	US	1:08:00.0	1:08:00.0	10:57	41	46.2	9	F 40-44
+187	1083	Eric	Cannon	M	Broomfield	CO	US	1:08:10.0	1:08:10.0	10:58	58	47.2	19	M 55-59
+188	1246	jenny	garner	F	Santa Cruz	CA	US	1:08:18.0	1:08:18.0	11:00	23	44.4	8	F 19-24
+189	1098	Serra	Mueller	F	Santa Cruz	CA	US	1:08:28.0	1:08:28.0	11:01	43	46.6	10	F 40-44
+190	1171	Michelle	Denicore	F	San Jose	CA	US	1:08:38.0	1:08:38.0	11:03	53	51.8	7	F 50-54
+191	1156	kate	anderson	F	Santa Clara	CA	US	1:08:50.0	1:08:50.0	11:05	33	44.2	12	F 30-34
+192	1149	Brian	Sparkes	M	Santa Clara	CA	US	1:08:52.0	1:08:52.0	11:05	45	41.9	14	M 45-49
+193	1139	Moe	Matsuo	F	Mountain View	CA	US	1:09:10.0	1:09:10.0	11:08	32	43.9	13	F 30-34
+194	1029	Trisha	Liu	F	Soquel	CA	US	1:09:52.0	1:09:52.0	11:15	45	46.4	8	F 45-49
+195	1260	Karen	Kaminishi	F	San Ramon	CA	US	1:10:06.0	1:10:06.0	11:17	53	50.7	8	F 50-54
+196	1039	Lynn	Sanders	F	Santa Cruz	CA	US	1:10:14.0	1:10:14.0	11:18	65	59.4	2	F 65-69
+197	1037	Dan	Birch	M	Santa Cruz	CA	US	1:10:44.0	1:10:44.0	11:23	58	45.5	20	M 55-59
+198	1038	Anne	Birch	F	Santa Cruz	CA	US	1:10:44.0	1:10:44.0	11:23	53	50.2	9	F 50-54
+199	1112	Maria	Kocsar	F	Felton	CA	US	1:11:20.0	1:11:20.0	11:29	44	45.1	11	F 40-44
+200	1065	Byron	Bunch	M	Santa Cruz	CA	US	1:11:30.0	1:11:30.0	11:30	13	40.4	5	M 13-18
+201	1193	Todd	Nicholas	M	Gilbert	AZ	US	1:11:32.0	1:11:32.0	11:31	51	42.4	21	M 50-54
+202	1306	Matinez	Andres	M	Watsonville	CA	US	1:11:50.0	1:11:50.0	11:34	39	38.3	11	M 35-39
+203	1286	Daniel	Ceideburg	M	Santa Cruz	CA	US	1:11:52.0	1:11:52.0	11:34	21	37.2	6	M 19-24
+204	1198	Adam	Caplan	M	Los Angeles	CA	US	1:12:14.0	1:12:14.0	11:37	36	37.5	12	M 35-39
+205	1161	Marie	Rankin	F	Pleasanton	CA	US	1:12:22.0	1:12:22.0	11:39	53	49.1	10	F 50-54
+206	1146	Michael	Clark	M	Santa Cruz	CA	US	1:12:24.0	1:12:24.0	11:39	79	57.9	2	M 75-99
+207	1203	Douglas	Couch	M	Scotts Valley	CA	US	1:12:26.0	1:12:26.0	11:39	50	41.5	22	M 50-54
+208	1147	Ana	Martinez	F	Alameda	CA	US	1:13:00.0	1:13:00.0	11:45	32	41.6	14	F 30-34
+209	1148	Rodrigo	Picazo	M	Alameda	CA	US	1:13:00.0	1:13:00.0	11:45	38	37.5	13	M 35-39
+210	1028	Kris	Scheiblauer	M	Portland	OR	US	1:13:40.0	1:13:40.0	11:51	36	36.7	14	M 35-39
+211	1001	Betty	Bullaro	F	Santa Cruz	CA	US	1:13:44.0	1:13:44.0	11:52	69	60.0	3	F 65-69
+212	1102	Alicia	DeRollo	F	Santa Cruz	CA	US	1:14:22.0	1:14:22.0	11:58	41	42.3	12	F 40-44
+213	1059	Sean	Mackin	M	San Jose	CA	US	1:14:42.0	1:14:42.0	12:01	56	42.3	21	M 55-59
+214	1010	Kate	Pohl	F	Aptos	CA	US	1:14:44.0	1:14:44.0	12:02	66	56.6	4	F 65-69
+215	1092	Gregory	Bowers	M	Santa Fe	NM	US	1:14:55.3	1:14:55.3	12:03	36	36.1	15	M 35-39
+216	1167	dave	resneck-sannes	M	Santa Cruz	CA	US	1:15:02.0	1:15:02.0	12:05	75	51.7	3	M 75-99
+217	1056	Amy	Schaumburg	F	Campbell	CA	US	1:15:04.0	1:15:04.0	12:05	48	44.6	9	F 45-49
+218	1060	Cynthia	Truong	F	San Jose	CA	US	1:15:04.0	1:15:04.0	12:05	45	43.2	10	F 45-49
+219	1205	Benjamin	Couch	M	Scotts Valley	CA	US	1:15:06.8	1:15:06.8	12:05	13	38.4	6	M 13-18
+220	1250	Sheree	Escoto	F	Aptos	CA	US	1:15:28.0	1:15:28.0	12:09	42	41.9	13	F 40-44
+221	1054	Debby	Joyce	F	Santa Cruz	CA	US	1:15:46.0	1:15:46.0	12:12	65	55.0	5	F 65-69
+222	1240	Hita	Bhagat	F	Los Altos	CA	US	1:15:54.5	1:15:54.5	12:13	24	40.0	9	F 19-24
+223	1230	Mahesh	Bhagat	M	Los Altos	CA	US	1:16:00.0	1:16:00.0	12:14	59	42.8	22	M 55-59
+224	1202	Jody	Couch	F	Scotts Valley	CA	US	1:16:04.0	1:16:04.0	12:15	41	41.3	14	F 40-44
+225	1172	Kaylee	Leandro	F	San Jose	CA	US	1:16:36.0	1:16:36.0	12:20	23	39.6	10	F 19-24
+226	1071	Jenny	Bloom	F	Scotts Valley	CA	US	1:17:40.0	1:17:40.0	12:30	48	43.1	11	F 45-49
+227	1042	Robert	Tidmore	M	Santa Cruz	CA	US	1:17:45.2	1:17:45.2	12:31	37	35.0	16	M 35-39
+228	1214	David	Campbell	M	Soquel	CA	US	1:18:18.0	1:18:18.0	12:36	74	48.7	3	M 70-74
+229	1219	Elliott	Campbell	M	Capitola	CA	US	1:18:18.0	1:18:18.0	12:36	43	36.2	10	M 40-44
+230	1086	Shawn	O'Leary	M	Alamo	CA	US	1:19:01.0	1:19:01.0	12:43	54	39.3	23	M 50-54
+231	1072	Kristin	Penaskovic	F	Santa Cruz	CA	US	1:19:12.0	1:19:12.0	12:45	47	41.8	12	F 45-49
+232	1073	L.	Bloom	M	Scotts Valley	CA	US	1:19:12.0	1:19:12.0	12:45	12	37.5	2	M 1-12
+233	1154	Agnes	Smith	F	Davenport	CA	US	1:19:57.2	1:19:57.2	12:52	27	37.9	6	F 25-29
+234	1162	Butch	Huff	M	Santa Cruz	CA	US	1:19:57.6	1:19:57.6	12:52	64	42.6	13	M 60-64
+235	1115	Mike	Brenner	M	Santa Cruz	CA	US	1:20:14.1	1:20:14.1	12:55	63	42.0	14	M 60-64
+236	1011	Julie	Colwell	F	Sunnyvale	CA	US	1:20:16.0	1:20:16.0	12:55	47	41.2	13	F 45-49
+237	1009	Jessica	Frankl	F	Santa Cruz	CA	US	1:20:23.8	1:20:23.8	12:56	42	39.4	15	F 40-44
+238	1082	Beth	Cannon	F	Phoenix	AZ	US	1:20:42.0	1:20:42.0	12:59	28	37.6	7	F 25-29
+239	1258	Tammy	Brabant	F	San Jose	CA	US	1:21:02.5	1:21:02.5	13:03	58	46.7	6	F 55-59
+240	1053	Paula	Goldman	F	Santa Cruz	CA	US	1:21:25.1	1:21:25.1	13:06	70	55.2	1	F 70-74
+241	1256	S.	Davis	M	Santa Cruz	CA	US	1:22:06.7	1:22:06.7	13:13	9	40.8	3	M 1-12
+242	1244	Stephen	Davis	M	Santa Cruz	CA	US	1:22:08.0	1:22:08.0	13:13	49	36.3	15	M 45-49
+243	1091	Lewis	Cramer	M	Los Gatos	CA	US	1:22:33.5	1:22:33.5	13:17	72	44.9	4	M 70-74
+244	1031	Rebecca	Scheiblauer	F	Santa Cruz	CA	US	1:22:42.2	1:22:42.2	13:19	38	37.4	14	F 35-39
+245	1090	Cherryll	Sevy	F	Los Gatos	CA	US	1:23:20.3	1:23:20.3	13:25	70	53.9	2	F 70-74
+246	1063	Mike	Sengir	M	San Jose	CA	US	1:23:21.4	1:23:21.4	13:25	70	43.4	5	M 70-74
+247	1224	Sara	Farmer	F	Englewood	CO	US	1:23:59.0	1:23:59.0	13:31	36	36.5	15	F 35-39
+248	1119	Christy	Mandon	F	Capitola	CA	US	1:24:33.5	1:24:33.5	13:37	35	36.1	16	F 35-39
+249	1208	Christopher	Murray	M	Aptos	CA	US	1:25:02.3	1:25:02.3	13:41	62	39.3	15	M 60-64
+250	1120	Mary	Gaukel	F	Capitola	CA	US	1:25:13.7	1:25:13.7	13:43	68	51.1	6	F 65-69
+251	1238	Stephanie	Messina	F	San Jose	CA	US	1:25:20.0	1:25:20.0	13:44	65	48.9	7	F 65-69
+252	1068	Anonymous	Participant	F	Santa Cruz	CA	US	1:25:48.0	1:25:48.0	13:48	47	38.6	14	F 45-49
+253	1087	Patricia	Ramsay	F	Alamo	CA	US	1:26:05.9	1:26:05.9	13:51	52	40.8	11	F 50-54
+254	1284	De Leys	Hamm	F	Sunnyvale	CA	US	1:26:06.0	1:26:06.0	13:51	28	35.2	8	F 25-29
+255	1058	Donald	Dickey	M	San Jose	CA	US	1:26:07.9	1:26:07.9	13:52	62	38.8	16	M 60-64
+256	1282	Melisse	Morris	F	Great Barrington	MA	US	1:26:21.8	1:26:21.8	13:54	35	35.4	17	F 35-39
+257	1305	Juergen	Hoehne	M	Berkeley	CA	US	1:26:22.1	1:26:22.1	13:54	56	36.6	23	M 55-59
+258	1130	George	Mageles	M	Saratoga	CA	US	1:26:27.5	1:26:27.5	13:55	65	39.8	6	M 65-69
+259	1207	Dorene	Dawson	F	Santa Cruz	CA	US	1:27:02.0	1:27:02.0	14:00	49	38.9	15	F 45-49
+260	1196	Dave	Dawson	M	Santa Cruz	CA	US	1:27:04.0	1:27:04.0	14:01	63	38.7	17	M 60-64
+261	1070	R.	Mazzurek	F	Aptos	CA	US	1:27:08.0	1:27:08.0	14:01	9	42.7	1	F 1-12
+262	1069	Heather	Faust	F	Aptos	CA	US	1:27:24.6	1:27:24.6	14:04	44	36.8	16	F 40-44
+263	1257	Kevin	Brabant	M	San Jose	CA	US	1:27:48.0	1:27:48.0	14:08	56	36.0	24	M 55-59
+264	1089	Marie	Pinson	F	San Jose	CA	US	1:28:22.0	1:28:22.0	14:13	61	44.6	3	F 60-64
+265	1013	Gary	Kohler	M	SoquelSoquel	CA	US	1:30:00.0	1:30:00.0	14:29	66	38.6	7	M 65-69
+266	1017	donna	landacre	F	Santa Cruz	CA	US	1:30:00.0	1:30:00.0	14:29	49	37.6	16	F 45-49
+267	1121	Les	Forster	M	Capitola	CA	US	1:31:38.0	1:31:38.0	14:45	65	37.5	8	M 65-69
+268	1015	Erick	Eklund	M	Santa Cruz	CA	US	1:32:10.0	1:32:10.0	14:50	56	34.3	25	M 55-59
+269	1012	Kate	Borelli	F	Aptos	CA	US	1:32:16.0	1:32:16.0	14:51	46	35.5	17	F 45-49
+270	1014	Jill	Eklund	F	Santa Cruz	CA	US	1:32:18.0	1:32:18.0	14:51	55	39.5	7	F 55-59
+271	1283	Jonelle	Badger	F	Santa Cruz	CA	US	1:32:38.1	1:32:38.1	14:54	37	33.2	18	F 35-39
+272	1281	Guillermo	Cordero	M	Watsonville	CA	US	1:32:44.0	1:32:44.0	14:55	46	31.3	16	M 45-49
+273	1016	william	debroekert	M	Santa Cruz	CA	US	1:33:50.0	1:33:50.0	15:06	75	41.3	4	M 75-99
+274	1150	Paul	Beck	M	Sunnyvale	CA	US	1:33:54.0	1:33:54.0	15:07	65	36.6	9	M 65-69
+275	1213	Teresa	Scofield	F	Watsonville	CA	US	1:40:25.9	1:40:25.9	16:10	61	39.2	4	F 60-64
+276	1228	Linda	Atlansky	F	Soquel	CA	US	1:40:26.4	1:40:26.4	16:10	62	39.8	5	F 60-64
+277	1110	Peter	Verbica	M	Felton	CA	US	1:41:30.1	1:41:30.1	16:20	58	31.7	26	M 55-59

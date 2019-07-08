@@ -19,7 +19,7 @@ timestr <- function(elapsed) {
 data10k <- read.table("data/processed_10k.txt", sep="\t", quote="", stringsAsFactors=F)
 names(data10k) <- c("Place", "Bib", "FirstName", "LastName", "Gender", "City", "State", "Country", "ClockTime", "ChipTime", "Pace", "Age", "AgePercent", "DivisionPlace", "Division")
 # Manually data cleaning
-# none needed!
+data10k <- na.omit(data10k)
 
 hoursMinutesSeconds <- strsplit(data10k$ClockTime, ":")
 
@@ -52,10 +52,7 @@ dev.off()
 data5k <- read.table("data/processed_5k.txt", sep="\t", quote="", stringsAsFactors=F)
 names(data5k) <- c("Place", "Bib", "FirstName", "LastName", "Gender", "City", "State", "Country", "ClockTime", "ChipTime", "Pace", "Age", "AgePercent", "DivisionPlace", "Division")
 # Manually data cleaning
-# A handful of records are incomplete; drop them
 data5k <- na.omit(data5k)
-# Bib #247 has a time > 100 hours! Drop it.
-data5k <- data5k[-which(data5k$Bib == 247),]
 
 hoursMinutesSeconds <- strsplit(data5k$ClockTime, ":")
 data5k$Time <- sapply(hoursMinutesSeconds, function(hms) Reduce(function(acc, x) as.numeric(acc) * 60 + as.numeric(x), hms ))

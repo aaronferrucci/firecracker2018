@@ -12,8 +12,5 @@ To reproduce these results:
 
 From there you can export the plots, or experiment further with the data set.
 
-Data cleanup: the 5k data has a few glaring errors. Here are notes and
-resolutions:
-1. Incomplete records (missing runtime): deleted.
-2. Bib #247 has a run time of more than 100 hours! Deleted.
+Data cleanup: the data has a few imcomplete records, which I've removed.
 

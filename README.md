@@ -1,5 +1,5 @@
 # firecracker2021
-![alt text](https://github.com/aaronferrucci/firecracker2018/blob/2019/time_vs_age5k.svg "5k time vs. age image")
+![alt text](https://github.com/aaronferrucci/firecracker2018/blob/2021/time_vs_age5k.svg "5k time vs. age image")
 
 To reproduce these results: 
 1. The race data is [here](https://runsignup.com/Race/Results/47158#resultSetId-260924;perpage:5000)

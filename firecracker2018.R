@@ -1,4 +1,5 @@
 library(ggplot2)
+library(testit)
 
 timestr <- function(elapsed) {
   seconds <- elapsed
@@ -17,16 +18,18 @@ timestr <- function(elapsed) {
 }
 
 data5k <- read.table("data/processed_5k.txt", sep="\t", quote="", stringsAsFactors=F)
-names(data5k) <- c("Place", "Bib", "FirstName", "LastName", "Gender", "City", "State", "Country", "ClockTime", "ChipTime", "Pace", "Age", "AgePercent", "DivisionPlace", "Division")
-# Manually data cleaning
-data5k <- na.omit(data5k)
+# column 3 is all NA. Remove it
+assert("column 3 is all NA", all(is.na(data5k[,3])))
+data5k <- data5k[-3]
 
-hoursMinutesSeconds <- strsplit(data5k$ClockTime, ":")
+names(data5k) <- c("Place", "Bib", "FirstName", "LastName", "Gender", "City", "State", "Country", "ChipTime", "Age", "AgePercent", "DivisionPlace", "Division")
+
+hoursMinutesSeconds <- strsplit(data5k$ChipTime, ":")
 data5k$Time <- sapply(hoursMinutesSeconds, function(hms) Reduce(function(acc, x) as.numeric(acc) * 60 + as.numeric(x), hms ))
 time_ticks <- seq(5 * 60, max(data5k$Time), 10 * 60)
 age_ticks <- seq(0, max(data5k$Age, na.rm=T), 10)
 
-divisions = data.frame(xmin=c(13, 25, 35, 45, 55, 65, 75), xmax=c(18, 29, 39, 49, 59, 69, max(data5k$Age, na.rm=T) + 1), ymin=c(-Inf), ymax=c(Inf))
+divisions = data.frame(xmin=c(13, 25, 35, 45, 55, 65, 75), xmax=c(18, 29, 39, 49, 59, 69, 79), ymin=c(-Inf), ymax=c(Inf))
 plot5k <-
   ggplot(data5k) +
   geom_rect(data=divisions, aes(xmin=xmin, xmax=xmax,ymin=ymin,ymax=ymax), fill="moccasin",linetype=0, alpha=0.3) +
@@ -36,7 +39,7 @@ plot5k <-
     panel.background = element_blank(),
     axis.line = element_line(colour = "black")) +
   geom_point(aes(x=Age, y=Time, color=Gender)) +
-  ggtitle("Firecracker 5k") +
+  ggtitle("2021 Firecracker 5k") +
   theme(plot.title = element_text(hjust = 0.5)) +
   expand_limits(x = 0, y = 15*60) +
   scale_y_continuous(breaks = time_ticks, labels = timestr(time_ticks), name = "elapsed time (h:mm:ss)") +

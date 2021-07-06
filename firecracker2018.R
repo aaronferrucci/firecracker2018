@@ -29,7 +29,7 @@ data5k$Time <- sapply(hoursMinutesSeconds, function(hms) Reduce(function(acc, x)
 time_ticks <- seq(5 * 60, max(data5k$Time), 10 * 60)
 age_ticks <- seq(0, max(data5k$Age, na.rm=T), 10)
 
-divisions = data.frame(xmin=c(13, 25, 35, 45, 55, 65, 75), xmax=c(18, 29, 39, 49, 59, 69, 79), ymin=c(-Inf), ymax=c(Inf))
+divisions = data.frame(xmin=c(13, 25, 35, 45, 55, 65, 75) - 0.5, xmax=c(18, 29, 39, 49, 59, 69, 79) + 0.5, ymin=c(-Inf), ymax=c(Inf))
 plot5k <-
   ggplot(data5k) +
   geom_rect(data=divisions, aes(xmin=xmin, xmax=xmax,ymin=ymin,ymax=ymax), fill="moccasin",linetype=0, alpha=0.3) +

@@ -46,6 +46,11 @@ plot5k <-
   scale_x_continuous(breaks = age_ticks) +
   geom_smooth(data=data5k, method="loess", aes(x=Age, y=Time, color=Gender), formula = y~x)
 
+## To highlight any particular data (points plotted as black)
+# extra <- data5k[data5k$City == "Santa Cruz",]
+# plot5k <- plot5k + geom_point(data=extra, aes(x = Age, y = Time))
+## to do: how to leave the "fill" per gender, but put a black border on each point?
+
 print(plot5k)
 svg(filename="time_vs_age5k.svg")
 print(plot5k)

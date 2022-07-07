@@ -18,11 +18,15 @@ timestr <- function(elapsed) {
 }
 
 data5k <- read.table("data/processed_5k.txt", sep="\t", quote="", stringsAsFactors=F)
+# column 4 is just an initial (2022 format). Remove it
+assert("column 4 isn't all single initial", all(nchar(data5k$V4) == 1))
+data5k <- data5k[-4]
+
 # column 3 is all NA. Remove it
 assert("column 3 is all NA", all(is.na(data5k[,3])))
 data5k <- data5k[-3]
 
-names(data5k) <- c("Place", "Bib", "FirstName", "LastName", "Gender", "City", "State", "Country", "ChipTime", "Age", "AgePercent", "DivisionPlace", "Division")
+names(data5k) <- c("Place", "Bib", "FirstName", "LastName", "Gender", "City", "State", "Country", "ClockTime", "ChipTime", "Pace", "Age", "AgePercent", "DivisionPlace", "Division")
 
 hoursMinutesSeconds <- strsplit(data5k$ChipTime, ":")
 data5k$Time <- sapply(hoursMinutesSeconds, function(hms) Reduce(function(acc, x) as.numeric(acc) * 60 + as.numeric(x), hms ))
@@ -39,7 +43,7 @@ plot5k <-
     panel.background = element_blank(),
     axis.line = element_line(colour = "black")) +
   geom_point(aes(x=Age, y=Time, color=Gender)) +
-  ggtitle("2021 Firecracker 5k") +
+  ggtitle("2022 Firecracker 5k") +
   theme(plot.title = element_text(hjust = 0.5)) +
   expand_limits(x = 0, y = 15*60) +
   scale_y_continuous(breaks = time_ticks, labels = timestr(time_ticks), name = "elapsed time (h:mm:ss)") +
@@ -50,6 +54,8 @@ plot5k <-
 # extra <- data5k[data5k$City == "Santa Cruz",]
 # plot5k <- plot5k + geom_point(data=extra, aes(x = Age, y = Time))
 ## to do: how to leave the "fill" per gender, but put a black border on each point?
+extra <- data5k[data5k$LastName == "Lieby",]
+plot5k <- plot5k + geom_point(data=extra, aes(x = Age, y = Time))
 
 print(plot5k)
 svg(filename="time_vs_age5k.svg")

@@ -1,5 +1,6 @@
 # firecracker2022
 ![alt text](https://github.com/aaronferrucci/firecracker2018/blob/2022/time_vs_age5k.svg "5k time vs. age image")
+![alt text](https://github.com/aaronferrucci/firecracker2018/blob/2022/time_vs_age10k.svg "10k time vs. age image")
 
 To reproduce these results: 
 1. The race data is [here](https://runsignup.com/Race/Results/47158#resultSetId-325566;perpage:5000)

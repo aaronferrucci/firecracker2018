@@ -1,0 +1,975 @@
+1	510	
+B
+Benjamin
+Beaudry
+M	Palo Alto	CA	US	36:52.0	36:52.0		24		1	M 19-24
+2	606	
+C
+Christian
+Lapann-Johannessen
+M	Santa Cruz	CA	US	37:39.2	37:39.2		32		1	M 30-34
+3	620	
+A
+Adam
+McGeorge
+M	Tempetempe	AZ	US	40:40.1	40:40.1		45		1	M 45-49
+4	561	
+M
+Mari
+Friedman
+F	Santa Cruz	CA	US	41:41.3	41:41.3		24		1	F 19-24
+5	546	
+R
+Robby
+Cuthbert
+M	Santa Cruz	CA	US	43:05.9	43:05.9		35		1	M 35-39
+6	514	
+N
+Nat
+Blaesser
+M	Yorktown	VA	US	43:25.8	43:25.8		39		2	M 35-39
+7	724	
+N
+Nick
+Schanzer
+M	Monterey	CA	US	43:33.8	43:33.8		25		1	M 25-29
+8	520	
+R
+Ryan
+Brady
+M	Santa Cruz	CA	US	43:45.0	43:45.0		47		2	M 45-49
+9	646	
+R
+Rory
+Press-Worth
+M	Holywood		US	44:16.0	44:16.0		16		1	M 13-18
+10	734	
+C
+Callan
+Cranenburgh
+M	Soquel		AU	45:15.1	45:15.1		28		2	M 25-29
+11	701	
+N
+Neal
+Christen
+M	Aptos	CA	US	45:15.1	45:15.1		47		3	M 45-49
+12	559	
+S
+Samantha
+Forde
+F	Santa Cruz	CA	US	45:50.2	45:50.2		52		1	F 50-54
+13	628	
+S
+Shannon
+Morfield
+F	Santa Cruz	CA	US	46:05.3	46:05.3		40		1	F 40-44
+14	519	
+C
+Colin
+Braddy
+M	Monterey	CA	US	46:23.3	46:23.3		24		2	M 19-24
+15	601	
+S
+Sarah
+Kletzer
+F	Santa Cruz	CA	US	47:08.8	47:08.8		31		1	F 30-34
+16	688	
+O
+Oliver
+Willet
+M	Santa Cruz	CA	US	47:10.9	47:10.9		16		2	M 13-18
+17	571	
+H
+Hannah
+Golden
+F	Santa Cruz	CA	US	47:27.4	47:27.4		29		1	F 25-29
+18	616	
+M
+Matthew
+Marting
+M	Mountain View	CA	US	47:32.1	47:32.1		25		3	M 25-29
+19	576	
+A
+Aaron
+Gross
+M	Holland	PA	US	47:58.8	47:58.8		18		3	M 13-18
+20	513	
+K
+Kerri
+Blaesser
+F	Yorktown	VA	US	48:47.8	48:47.8		38		1	F 35-39
+21	617	
+A
+Angela
+Matthews
+F	Sacramento	CA	US	48:58.3	48:58.3		61		1	F 60-64
+22	727	
+M
+Matt
+Thompson
+M	Turlock	CA	US	49:03.3	49:03.3		38		3	M 35-39
+23	722	
+V
+Venkatesh
+Ramanathan
+M	San Jose	CA	US	49:12.3	49:12.3		55		1	M 55-59
+24	588	
+B
+Barb
+Hurtt
+F	Golden	CO	US	49:25.2	49:25.2		54		2	F 50-54
+25	672	
+S
+Sally
+Stoik
+F	Watsonville	CA	US	49:29.0	49:29.0		56		1	F 55-59
+26	714	
+C
+Cristina
+Hasson
+F	Scotts Valley	CA	US	49:52.1	49:52.1		46		1	F 45-49
+27	597	
+M
+Michael
+Johnston
+M	San Jose	CA	US	50:17.3	50:17.3		30		2	M 30-34
+28	707	
+M
+Mariana
+Espana
+F	Santa Cruz	CA	US	50:18.2	50:18.2		42		2	F 40-44
+29	716	
+C
+Chloe
+Hood
+F	Santa Cruz	CA	US	50:30.7	50:30.7		15		1	F 13-18
+30	680	
+S
+Shane
+Vander Veen
+M	Capitola	CA	US	50:56.7	50:56.7		45		4	M 45-49
+31	595	
+J
+Joel
+Jimenez
+M	Watsonville	CA	US	51:08.6	51:08.6		51		1	M 50-54
+32	596	
+S
+Stuart
+Johnson
+M	Belmont	CA	US	51:26.7	51:26.7		61		1	M 60-64
+33	568	
+J
+Jay
+Ghilarducci
+M	Santa Cruz	CA	US	51:27.4	51:27.4		18		4	M 13-18
+34	710	
+J
+Jennifer
+Germann
+F	Felton	CA	US	51:47.6	51:47.6		34		2	F 30-34
+35	719	
+K
+Kirsten
+Lundgren
+F	Oakland	CA	US	51:49.2	51:49.2		40		3	F 40-44
+36	654	
+A
+Arturo
+Rivera
+M	Santa Cruz	CA	US	51:52.8	51:52.8		61		2	M 60-64
+37	686	
+A
+Angie
+Weinberger
+F	Saratoga	CA	US	52:10.6	52:10.6		53		3	F 50-54
+38	579	
+S
+Sattar
+Hadi
+M	Carmel Valley	CA	US	53:00.4	53:00.4		54		2	M 50-54
+39	713	
+D
+Deirdre
+Hassett
+F	Campbell	CA	US	53:09.6	53:09.6		49		2	F 45-49
+40	572	
+J
+Jack
+Goode Jr
+M	Scotts Valley	CA	US	53:11.7	53:11.7		47		5	M 45-49
+41	631	
+B
+B.
+Mullis
+M	Santa Cruz	CA	US	53:33.5	53:33.5		12		1	M 2-12
+42	735	
+D
+Don
+Hart
+M	Soquel	CA	US	53:36.9	53:36.9		55		2	M 55-59
+43	700	
+L
+Leiana
+Armendariz
+F	Long Beach	CA	US	53:55.2	53:55.2		33		3	F 30-34
+44	699	
+J
+Jerry
+Armendariz
+M	Long Beach	CA	US	53:56.0	53:56.0		38		4	M 35-39
+45	507	
+K
+Karl
+Bane
+M	La Honda	CA	US	54:01.7	54:01.7		76		1	M 75-79
+46	733	
+K
+Keith
+Hedlund
+M	Salinas	CA	US	54:07.2	54:07.2		61		3	M 60-64
+47	578	
+M
+Michael
+Gross
+M	Holland	PA	US	54:26.7	54:26.7		57		3	M 55-59
+48	629	
+J
+John
+Morris
+M	Campbell	CA	US	54:48.0	54:48.0		28		3	M 30-34
+49	549	
+D
+Danny
+Dizon
+M	Salinas	CA	US	54:51.4	54:51.4		46		6	M 45-49
+50	511	
+K
+Kuindert
+Berkman
+M	San Francisco	CA	US	55:07.8	55:07.8		52		3	M 50-54
+51	664	
+T
+Tony
+Scurich
+M	Royal Oaks	CA	US	55:23.2	55:23.2		64		4	M 60-64
+52	689	
+A
+Albert
+Wu
+M	San Mateo	CA	US	55:42.8	55:42.8		42		1	M 40-44
+53	547	
+D
+Dan
+Dancescu
+M	San Francisco	CA	US	55:54.3	55:54.3		38		5	M 35-39
+54	544	
+M
+Merete
+Conley
+F	Monterey	CA	US	56:39.1	56:39.1		21		2	F 19-24
+55	554	
+M
+Michael
+Fernandez
+M	Marina	CA	US	56:41.4	56:41.4		40		2	M 40-44
+56	619	
+K
+Kevin
+McEntee
+M	Scotts Valley	CA	US	57:03.2	57:03.2		59		4	M 55-59
+57	661	
+E
+Elie
+Schafer
+F	Modesto	CA	US	57:09.2	57:09.2		32		4	F 30-34
+58	644	
+T
+Tara
+Pipia
+F	San Jose	CA	US	57:12.2	57:12.2		49		3	F 45-49
+59	635	
+S
+Steven
+Occhipinti
+M	Felton	CA	US	57:15.7	57:15.7		69		1	M 65-69
+60	691	
+S
+Sylvie
+Maxwell
+F	Watsonville	CA	US	57:26.6	57:26.6		59		2	F 55-59
+61	562	
+C
+Catherine
+Frye
+F	Campbell	CA	US	57:29.1	57:29.1		63		2	F 60-64
+62	657	
+A
+Aaron
+Rulison
+M	Los Altos	CA	US	57:49.0	57:49.0		60		5	M 60-64
+63	555	
+A
+Aaron
+Ferrucci
+M	Santa Cruz	CA	US	58:12.4	58:12.4		59		5	M 55-59
+64	512	
+C
+Charan
+Bhandal
+M	San Josesa	CA	US	58:27.6	58:27.6		53		4	M 50-54
+65	508	
+B
+Barry
+Barrett
+M	Aptos	CA	US	58:41.9	58:41.9		64		6	M 60-64
+66	636	
+A
+Andy
+Olson
+M	Ben Lomond	CA	US	58:44.0	58:44.0		59		6	M 55-59
+67	522	
+H
+Hilary
+Bryant
+F	Santa Cruz	CA	US	58:53.4	58:53.4		52		4	F 50-54
+68	618	
+E
+Ella
+Mazurek
+F	Aptos	CA	US	58:55.3	58:55.3		20		3	F 19-24
+69	737	
+M
+Manuel
+Quiroz
+M	Santa Cruz	CA	US	59:06.1	59:06.1		65		2	M 65-69
+70	721	
+H
+Henry
+Montes
+M	Freedom	CA	US	59:12.6	59:12.6		59		7	M 55-59
+71	524	
+M
+Michael
+Buell
+M	Santa Cruz	CA	US	59:21.4	59:21.4		49		7	M 45-49
+72	542	
+H
+Hadzy
+Cohen
+F	Santa Cruz	CA	US	59:31.2	59:31.2		16		2	F 13-18
+73	653	
+M
+Michael
+Riordan
+M	San Jose	CA	US	59:43.6	59:43.6		68		3	M 65-69
+74	538	
+W
+Wesley
+Chow
+M	Burlingame	CA	US	59:45.8	59:45.8		22		3	M 19-24
+75	583	
+M
+Medium
+Hernandez
+F	Watsonville	CA	US	59:52.7	59:52.7		45		4	F 45-49
+76	610	
+J
+Joachim
+Limburg
+M	Campbell	CA	US	59:54.1	59:54.1		63		7	M 60-64
+77	642	
+A
+Angelica
+Perez
+F	Sacramento	CA	US	59:56.4	59:56.4		23		4	F 19-24
+78	586	
+A
+Alex
+Hitzeman
+M	La Jolla	CA	US	1:00:15.1	1:00:15.1		21		4	M 19-24
+79	564	
+D
+Dana
+Garbo
+F	Santa Cruz	CA	US	1:00:17.6	1:00:17.6		54		5	F 50-54
+80	517	
+V
+Vincent
+Boyen IV
+M	Worden	IL	US	1:00:24.7	1:00:24.7		22		5	M 19-24
+81	548	
+M
+Michael
+Derrenbacher
+M	San Jose	CA	US	1:00:41.0	1:00:41.0		25		4	M 25-29
+82	709	
+R
+Ryan
+Garza
+M	Lubbock	TX	US	1:01:06.8	1:01:06.8		33		4	M 30-34
+83	693	
+S
+Sara
+Litle
+F	CapitolaCapitola	CA	US	1:01:12.4	1:01:12.4		47		5	F 45-49
+84	623	
+C
+Cindy
+Miller
+F	Santa Cruz	CA	US	1:01:31.7	1:01:31.7		57		3	F 55-59
+85	728	
+D
+David
+Troner
+M	Santa Cruz	CA	US	1:01:43.8	1:01:43.8		31		5	M 30-34
+86	600	
+A
+Abhishek
+Khare
+M	Santa Clara	CA	US	1:01:45.0	1:01:45.0		26		5	M 25-29
+87	585	
+N
+Nathan
+Higgins
+M	Palm Coast	FL	US	1:01:47.8	1:01:47.8		25		6	M 25-29
+88	656	
+O
+Oscar
+Rocha
+M	Watsonville	CA	US	1:02:09.6	1:02:09.6		34		6	M 30-34
+89	540	
+D
+Diane
+Clifton
+F	Marina	CA	US	1:02:27.0	1:02:27.0		36		2	F 35-39
+90	537	
+A
+Alvina
+Chow
+F	Burlingame	CA	US	1:02:46.8	1:02:46.8		19		5	F 19-24
+91	648	
+R
+Rachel
+Prudil
+F	San Mateo	CA	US	1:03:14.1	1:03:14.1		25		2	F 25-29
+92	622	
+M
+Martin
+Medina
+M	Castroville	CA	US	1:03:18.7	1:03:18.7		37		6	M 35-39
+93	580	
+C
+Catherine
+Handschuh
+F	Aptos	CA	US	1:04:03.9	1:04:03.9		47		6	F 45-49
+94	515	
+G
+Gregory
+Bowers
+M	Albuquerque	NM	US	1:04:06.7	1:04:06.7		41		3	M 40-44
+95	726	
+R
+Russell
+Smyth
+M	Santa Cruz	CA	US	1:04:16.2	1:04:16.2		63		8	M 60-64
+96	541	
+S
+Sean
+Cohelan
+M	Ben Lomond	CA	US	1:04:29.9	1:04:29.9		57		8	M 55-59
+97	632	
+J
+Jack
+Mullis
+M	Santa Cruz	CA	US	1:04:31.7	1:04:31.7		47		8	M 45-49
+98	599	
+S
+Serg
+Kagno
+M	Santa Cruz	CA	US	1:04:41.7	1:04:41.7		54		5	M 50-54
+99	502	
+O
+Oscar
+Andrade
+M	Santa Cruz	CA	US	1:05:01.5	1:05:01.5		74		1	M 70-74
+100	712	
+S
+Scott
+Goodrich
+M	Scotts Valley	CA	US	1:05:07.7	1:05:07.7		64		9	M 60-64
+101	613	
+N
+Noah
+Livingston
+M	Seaside	CA	US	1:05:09.5	1:05:09.5		25		7	M 25-29
+102	529	
+E
+Ericka
+Campos
+F	Santa Clara	CA	US	1:05:13.2	1:05:13.2		34		5	F 30-34
+103	558	
+O
+Olga
+Fomina
+F	Santa Clara	CA	US	1:05:14.3	1:05:14.3		34		6	F 30-34
+104	590	
+E
+Edwin
+Hutchins
+M	Scotts Valley	CA	US	1:05:19.8	1:05:19.8		70		2	M 70-74
+105	530	
+C
+Christy
+Carello
+F	Golden	CO	US	1:05:21.9	1:05:21.9		55		4	F 55-59
+106	638	
+S
+Sarah
+Oros
+F	Monterey	CA	US	1:06:00.7	1:06:00.7		23		6	F 19-24
+107	612	
+C
+Christina
+Livingston
+F	Seaside	CA	US	1:06:04.2	1:06:04.2		30		7	F 30-34
+108	639	
+J
+Jennifer
+Ott
+F	Santa Cruz	CA	US	1:06:24.1	1:06:24.1		30		8	F 30-34
+109	649	
+L
+Laura
+Quintero
+F	Freedom	CA	US	1:06:30.9	1:06:30.9		38		3	F 35-39
+110	552	
+E
+Eileen Joy
+Esporo
+F	Gonzales	CA	US	1:06:33.6	1:06:33.6		50		6	F 50-54
+111	704	
+D
+Denise
+Corrales
+F	Los Banos	CA	US	1:06:37.9	1:06:37.9		21		7	F 19-24
+112	575	
+J
+Jessica
+Griffith
+F	Salinas	CA	US	1:06:44.2	1:06:44.2		39		4	F 35-39
+113	668	
+B
+Bj
+Snider
+M	Felton	CA	US	1:07:00.0	1:07:00.0		57		9	M 55-59
+114	621	
+J
+Jillon
+McGreal
+F	Santa Cruz	CA	US	1:07:02.9	1:07:02.9		30		9	F 30-34
+115	604	
+T
+Tigran
+Kurkchiyants
+M	Sunnyvale	CA	US	1:07:03.3	1:07:03.3		25		8	M 25-29
+116	682	
+C
+Cesar
+Viana Ruiz
+M	University Place	WA	US	1:07:16.0	1:07:16.0		30		7	M 30-34
+117	525	
+S
+Shannon
+Buell
+F	Santa Cruz	CA	US	1:07:32.6	1:07:32.6		47		7	F 45-49
+118	659	
+L
+Lynn
+Sanders
+F	Santa Cruz	CA	US	1:07:45.4	1:07:45.4		70		1	F 70-74
+119	731	
+M
+Michael
+Roberts
+M	Santa Cruz	CA	US	1:07:45.5	1:07:45.5		58		10	M 55-59
+120	641	
+L
+Lucie
+Palis
+F	Santa Cruz	CA	US	1:07:48.6	1:07:48.6		25		3	F 25-29
+121	603	
+P
+Pranav
+Kulkarni
+M	Santa Clara	CA	US	1:08:46.2	1:08:46.2		29		9	M 25-29
+122	608	
+A
+Amy
+Leonard
+F	Los Gatos	CA	US	1:08:48.7	1:08:48.7		40		4	F 40-44
+123	509	
+M
+Masi
+Bayless
+F	Santa Cruz	CA	US	1:09:17.9	1:09:17.9		41		5	F 40-44
+124	527	
+W
+Wendy
+Bussiere
+F	Santa Cruz	CA	US	1:09:35.9	1:09:35.9		57		5	F 55-59
+125	640	
+S
+Suzanne
+Paeglow
+F	Santa Cruz	CA	US	1:09:58.8	1:09:58.8		51		7	F 50-54
+126	624	
+R
+Rohan
+Mital
+M	San Jose	CA	US	1:10:19.3	1:10:19.3		28		10	M 25-29
+127	553	
+H
+Heather
+Faust
+F	Aptos	CA	US	1:10:24.7	1:10:24.7		49		8	F 45-49
+128	589	
+E
+Emma
+Husby
+F	Santa Cruz	CA	US	1:11:45.8	1:11:45.8		28		4	F 25-29
+129	615	
+J
+Jessica
+Martin
+F	San Jose	CA	US	1:11:48.3	1:11:48.3		50		8	F 50-54
+130	690	
+K
+Kaye
+Young
+F	Altadena	CA	US	1:11:49.9	1:11:49.9		62		3	F 60-64
+131	611	
+S
+Sarah
+Lisha
+F	Los Gatos	CA	US	1:11:50.8	1:11:50.8		44		6	F 40-44
+132	602	
+L
+Lisa
+Krigsman
+F	Aptos	CA	US	1:11:52.0	1:11:52.0		47		9	F 45-49
+133	550	
+D
+Deborah
+Dutra
+F	Watsonville	CA	US	1:11:52.2	1:11:52.2		62		4	F 60-64
+134	504	
+J
+Jason
+Asmus
+M	Monterey	CA	US	1:12:37.4	1:12:37.4		44		4	M 40-44
+135	521	
+L
+Linda
+Broyles
+F	Aptos	CA	US	1:12:41.7	1:12:41.7		66		1	F 65-69
+136	678	
+T
+Tiffany
+Tollick
+F	Santa Cruz	CA	US	1:13:30.3	1:13:30.3		28		5	F 25-29
+137	677	
+R
+Ross
+Tollick
+M	Boulder Creek	CA	US	1:13:32.0	1:13:32.0		40		5	M 40-44
+138	592	
+F
+Fred
+Isozaki
+M	San Jose	CA	US	1:13:32.9	1:13:32.9		59		11	M 55-59
+139	534	
+M
+Maridee
+Charlton
+F	Santa Cruz	CA	US	1:13:47.4	1:13:47.4		68		2	F 65-69
+140	736	
+S
+Sylvia
+Wu
+F	San Francisco	CA	US	1:14:03.9	1:14:03.9		35		5	F 35-39
+141	647	
+D
+David
+Price
+M	Scotts Valley	CA	US	1:14:27.6	1:14:27.6		60		10	M 60-64
+142	708	
+D
+Dennis
+Gagne
+M	Scotts Valley	CA	US	1:14:28.7	1:14:28.7		66		4	M 65-69
+143	545	
+D
+Desiree
+Cruz
+F	Castroville	CA	US	1:14:29.2	1:14:29.2		36		6	F 35-39
+144	551	
+A
+Amalia
+Ellis
+F	Santa Cruz	CA	US	1:14:33.3	1:14:33.3		45		10	F 45-49
+145	669	
+A
+Alan
+Speidel
+M	Santa Cruz	CA	US	1:14:49.1	1:14:49.1		74		3	M 70-74
+146	609	
+A
+Austin
+Leong
+M	San Mateo	CA	US	1:14:52.7	1:14:52.7		28		11	M 25-29
+147	711	
+J
+Jackie
+Gomez
+F	Watsonville	CA	US	1:14:58.4	1:14:58.4		30		10	F 30-34
+148	671	
+J
+Jennifer
+Steward
+F	Kalama	WA	US	1:14:59.6	1:14:59.6		43		7	F 40-44
+149	697	
+G
+Gita
+Donaldson
+F	Santa Cruz	CA	US	1:15:01.0	1:15:01.0		14		3	F 13-18
+150	556	
+O
+Oscar
+Flores
+M	San Jose	CA	US	1:15:22.9	1:15:22.9		57		12	M 55-59
+151	667	
+K
+Kathrin
+Sidell
+F	Scotts Valley	CA	US	1:15:28.9	1:15:28.9		54		9	F 50-54
+152	665	
+J
+John
+Senkier
+M	Scotts Valley	CA	US	1:15:29.3	1:15:29.3		62		11	M 60-64
+153	685	
+M
+Melissa
+Webb
+F	San Jose	CA	US	1:15:38.9	1:15:38.9		39		7	F 35-39
+154	725	
+R
+Ruth
+Schulz
+F	Mountain View	CA	US	1:15:49.8	1:15:49.8		44		8	F 40-44
+155	662	
+M
+Mary
+Schindler
+F	Santa Cruz	CA	US	1:16:23.2	1:16:23.2		65		3	F 65-69
+156	614	
+D
+Donnell
+MacNair
+M	Ben Lomond	CA	US	1:16:30.8	1:16:30.8		77		2	M 75-79
+157	582	
+J
+Juan
+Hernandez
+M	Santa Cruz	CA	US	1:16:33.2	1:16:33.2		53		6	M 50-54
+158	723	
+M
+Mariana
+Ruvalcaba
+F	Watsonville	CA	US	1:16:42.9	1:16:42.9		42		9	F 40-44
+159	533	
+B
+Bruce
+Charlton
+M	Santa Cruz	CA	US	1:16:46.8	1:16:46.8		67		5	M 65-69
+160	666	
+K
+Kaz
+Shaikh
+M	Cupertino	CA	US	1:16:57.8	1:16:57.8		56		13	M 55-59
+161	539	
+H
+Hiram
+Clawson
+M	Santa Cruz	CA	US	1:17:20.7	1:17:20.7		73		4	M 70-74
+162	718	
+L
+Lisa
+Lewis
+F	Altadena	CA	US	1:17:22.4	1:17:22.4		59		6	F 55-59
+163	717	
+J
+Jessica
+Landzberg
+F	Santa Cruz	CA	US	1:17:54.8	1:17:54.8		29		6	F 25-29
+164	740	
+K
+Kirsy
+Gomez
+F			US	1:18:07.4	1:18:07.4		36		8	F 35-39
+165	698	
+M
+M.
+Donaldson
+M	Santa Cruz	CA	US	1:18:17.1	1:18:17.1		12		2	M 2-12
+166	584	
+K
+Kelly
+Herrell
+F	Santa Cruz	CA	US	1:18:35.7	1:18:35.7		45		11	F 45-49
+167	570	
+C
+Catherine
+Gloria
+F	Oakland	CA	US	1:18:41.4	1:18:41.4		37		9	F 35-39
+168	692	
+T
+Trevor
+Strudley
+M	Aptos	CA	US	1:18:45.4	1:18:45.4		61		12	M 60-64
+169	607	
+R
+Rich
+Larson
+M	Santa Cruz	CA	US	1:18:48.5	1:18:48.5		73		5	M 70-74
+170	715	
+O
+Oscar
+Hernandez-Yanes
+M	Bellflower	CA	US	1:18:51.1	1:18:51.1		42		6	M 40-44
+171	535	
+D
+Daniela
+Chicas
+F	Firebaugh	CA	US	1:19:25.8	1:19:25.8		26		7	F 25-29
+172	706	
+S
+Sarah
+Dubner
+F	Santa Cruz	CA	US	1:20:05.3	1:20:05.3		46		12	F 45-49
+173	528	
+B
+Brie
+Buxton
+F	Watsonville	CA	US	1:21:04.1	1:21:04.1		39		10	F 35-39
+174	694	
+K
+Kathy
+Cytron
+F	Santa Cruz	CA	US	1:23:38.6	1:23:38.6		67		4	F 65-69
+175	695	
+R
+Renee
+Tan
+F	Santa Cruz	CA	US	1:27:50.1	1:27:50.1		56		7	F 55-59
+176	526	
+B
+Bb
+Bullaro
+F	Santa Cruz	CA	US	1:28:31.0	1:28:31.0		74		2	F 70-74
+177	681	
+D
+Don
+Vernekohl
+M	San Jose	CA	US	1:28:56.6	1:28:56.6		40		7	M 40-44
+178	684	
+C
+Celine
+Wang
+F	Santa Clara	CA	US	1:28:56.8	1:28:56.8		34		11	F 30-34
+179	643	
+P
+Polina
+Petriuk
+F	San Jose	CA	US	1:30:11.0	1:30:11.0		39		11	F 35-39
+180	683	
+A
+Ailbhe Yasmin
+Wallis
+F	Cupertino	CA	US	1:30:33.7	1:30:33.7		24		8	F 19-24
+181	591	
+D
+Drea
+Isasi
+F	Marina	CA	US	1:30:37.3	1:30:37.3		41		10	F 40-44
+182	679	
+R
+Randy
+Uang
+M	Aptos	CA	US	1:32:28.9	1:32:28.9		40		8	M 40-44
+183	687	
+G
+Gordon
+Wheeler
+M	Santa Cruz	CA	US	1:33:54.2	1:33:54.2		80		1	M 80-84
+184	503	
+M
+Meghan
+Arnold
+F	Santa Cruz	CA	US	1:34:47.1	1:34:47.1		44		11	F 40-44
+185	518	
+K
+Kevin
+Brabant
+M	San Martin	CA	US	1:35:17.6	1:35:17.6		61		13	M 60-64
+186	720	
+L
+Lauren
+Meisenheimer
+F	Templeton	CA	US	1:39:26.3	1:39:26.3		41		12	F 40-44
+187	658	
+C
+Cari
+Salzman
+F	Santa Cruz	CA	US	1:46:18.3	1:46:18.3		56		8	F 55-59
+188	501	
+A
+Augustine
+Acosta
+M	Watsonville	CA	US	1:46:27.6	1:46:27.6		28		12	M 25-29
+189	637	
+J
+Julian
+Olvera
+M	Watsonville	CA	US	1:46:28.4	1:46:28.4		25		13	M 25-29
+190	703	
+C
+Camille
+Corrales
+F	Los Banos	CA	US	1:46:29.8	1:46:29.8		13		4	F 13-18
+191	702	
+E
+Emily
+Corrales
+F	Los Banos	CA	US	1:46:36.8	1:46:36.8		18		5	F 13-18
+192	705	
+B
+Blanca
+Corrales
+F	Los Banos	CA	US	1:46:39.4	1:46:39.4		42		13	F 40-44
+193	625	
+N
+Nancy
+Mitrick
+F	Fremont	CA	US	1:47:32.1	1:47:32.1		81		1	F 80-84
+194	593	
+C
+Colette
+Jappy
+F	San Francisco	CA	US	2:10:17.0	2:10:17.0		51		10	F 50-54
+195	594	
+D
+Daniela
+Jappy
+F	Scotts Valley	CA	US	2:10:17.0	2:10:17.0		49		13	F 45-49

@@ -1,0 +1,240 @@
+1	358	Raymond Valadez Ingersoll	Male	23	Santa Cruz	CA	36:46	1	M19 - 24	1	05:55		
+2	287	Nick Kovaleski	Male	35	Burlingame	CA	37:37	2	M35 - 39	1	06:03		
+3	273	Christian Alcala	Male	28	Belmont	CA	37:56	3	M25 - 29	1	06:06		
+4	335	Ian Ferrucci	Male	22	Santa Cruz	CA	38:20	4	M19 - 24	2	06:10		
+5	244	Arie Wirth-Yap	Male	16	Santa Cruz	CA	38:25	5	M13 - 18	1	06:11		
+6	346	Patrick Goodrich	Male	22	Scotts Valley	CA	38:28	6	M19 - 24	3	06:12		
+7	224	Adam Taylor	Male	28	Santa Clara	CA	38:48	7	M25 - 29	2	06:15		
+8	217	Brennan Jarvis	Male	34	Santa Clara	CA	41:00	8	M30 - 34	1	06:36		
+9	308	Mari Friedman	Female	25	Santa Cruz	CA	41:16	1	F25 - 29	1	06:39		
+10	278	Jeremy Notch	Male	43	Soquel	CA	41:30	9	M40 - 44	1	06:41		
+11	159	Roger Dix	Male	58	San Jose	CA	41:37	10	M55 - 59	1	06:42		
+12	391	Robby Cuthbert	Male	36	Santa Cruz	CA	41:43	11	M35 - 39	2	06:43		
+13	307	Rebecca Paten	Female	45	Santa Cruz	CA	41:44	2	F45 - 49	1	06:43		
+14	236	Karl Schnaitter	Male	43	Santa Cruz	CA	42:29	12	M40 - 44	2	06:51		
+15	208	Brian Spear	Male	42	Santa Cruz	CA	43:20	13	M40 - 44	3	06:59		
+16	343	Jennifer Germann	Female	35	Felton	CA	45:05	3	F35 - 39	1	07:16		
+17	228	West Knutson	Male	29	Watsonville	CA	45:20	14	M25 - 29	3	07:18		
+18	231	Harrison Sheplan	Male	41	Half Moon Bay	CA	45:34	15	M40 - 44	4	07:20		
+19	241	Jesse Rodriguez Lopez	Male	19	Freedom	CA	45:41	16	M19 - 24	4	07:21		
+20	296	Chloe Hood	Female	16	Santa Cruz	CA	47:15	4	F13 - 18	1	07:37		
+21	349	Beth Magyar	Female	32	Capitola	CA	47:17	5	F30 - 34	1	07:37		
+22	238	Matthew Mensinger	Male	31	Santa Cruz	CA	47:21	17	M30 - 34	2	07:38		
+23	183	Luis Torres	Male	40	Los Gatos	CA	47:22	18	M40 - 44	5	07:38		
+24	277	Roy Calimlim	Male	47	Seaside	CA	47:27	19	M45 - 49	1	07:39		
+25	260	Kiran Heine	Male	20	Scotts Valley	CA	47:36	20	M19 - 24	5	07:40		
+26	298	Antoine Girbal	Male	44	Campbell	CA	47:43	21	M40 - 44	6	07:41		
+27	306	Paul Torrez	Male	41	Santa Cruz	CA	47:46	22	M40 - 44	7	07:42		
+28	235	Carol Leandro	Female	55	Ventura	CA	47:47	6	F55 - 59	1	07:42		
+29	396	Daniela Buckallew	Female	17	Los Gatos	CA	48:00	7	F13 - 18	2	07:44		
+30	267	Alex Madrid	Male	20	Santa Cruz	CA	48:01	23	M19 - 24	6	07:44		
+31	247	Sebas Diego	Male	23	Seaside	CA	48:10	24	M19 - 24	7	07:46		
+32	373	Baxter Mullis	Male	13	Santa Cruz	CA	48:12	25	M13 - 18	2	07:46		
+33	239	Angela Matthews	Female	62	Sacramento	CA	48:28	8	F60 - 64	1	07:48		
+34	237	Simone Angela Winkler	Female	43	Santa Cruz	CA	48:53	9	F40 - 44	1	07:53		
+35	214	Rob Byers	Male	54	Maricopa	AZ	48:56	26	M50 - 54	1	07:53		
+36	225	Matthew Marting	Male	26	Mountain View	CA	48:56	27	M25 - 29	4	07:53		
+37	293	Lee Butler	Male	47	Santa Cruz	CA	49:05	28	M45 - 49	2	07:54		
+38	402	Patrick Williams	Male	52			49:09	29	M50 - 54	2	07:55		
+39	215	Alec Berg	Male	39	San Mateo	CA	49:13	30	M35 - 39	3	07:56		
+40	313	Savannah Kari	Female	26	San Jose	CA	49:18	10	F25 - 29	2	07:57		
+41	174	Sarah Kletzer	Female	32	Waterville	ME	49:23	11	F30 - 34	2	07:57		
+42	265	Arturo Rivera	Male	62	Santa Cruz	CA	49:33	31	M60 - 64	1	07:59		
+43	384	Chris Webb	Male	39	San Jose	CA	49:34	32	M35 - 39	4	07:59		
+44	261	Alex Hitzeman	Male	22	La Jolla	CA	49:39	33	M19 - 24	8	08:00		
+45	259	Dylan Gentile	Male	22	Scotts Valley	CA	49:41	34	M19 - 24	9	08:00		
+46	248	Stuart Johnson	Male	62	Belmont	CA	49:49	35	M60 - 64	2	08:02		
+47	381	Andy Belk	Male	60	Watsonville	CA	50:04	36	M60 - 64	3	08:04		
+48	169	William Ramaekers	Male	33	Los Gatos	CA	50:05	37	M30 - 34	3	08:04		
+49	401	Hector Hernandez	Male	44	Salinas	CA	50:20	38	M40 - 44	8	08:07		
+50	279	Sally Stoik	Female	57	Watsonville	CA	50:21	12	F55 - 59	2	08:07		
+51	339	Mckenna Alackness	Female	15	Littleton	CO	50:44	13	F13 - 18	3	08:10		
+52	353	Claire Ryan	Female	17	Soquel	CA	50:48	14	F13 - 18	4	08:11		
+53	286	Gabriel Ho	Male	47	San Carlos	CA	50:56	39	M45 - 49	3	08:12		
+54	211	Lindsey Gwirtz	Female	34	Pacific Grove	CA	51:07	15	F30 - 34	3	08:14		
+55	184	Betty Bullaro	Female	75	Santa Cruz	CA	51:09	16	F75 - 99	1	08:14		
+56	318	Andrew Le	Male	36	Santa Cruz	CA	51:55	40	M35 - 39	5	08:22		
+57	171	Jack Goode Jr	Male	48	Scotts Valley	CA	52:15	41	M45 - 49	4	08:25		
+58	196	Bill Wolcott	Male	55	Santa Cruz	CA	52:24	42	M55 - 59	2	08:27		
+59	294	Kathleen Mccarthy	Female	46	Santa Cruz	CA	52:30	17	F45 - 49	2	08:28		
+60	195	Philip Sweet	Male	32	Santa Cruz	CA	52:31	43	M30 - 34	4	08:28		
+61	233	Jorge Lopez	Male	54			52:39	44	M50 - 54	3	08:29		
+62	191	Michelle Fry	Female	39	Santa Cruz	CA	52:44	18	F35 - 39	2	08:30		
+63	192	Hudson Fry	Male	13	Santa Cruz	CA	52:45	45	M13 - 18	3	08:30		
+64	352	Sean Foster	Male	31	Santa Cruz	CA	52:56	46	M30 - 34	5	08:32		
+65	229	Anita Rinehart	Female	39	Mountain View	CA	53:02	19	F35 - 39	3	08:33		
+66	176	Kevin Mcentee	Male	60	Scotts Valley	CA	53:26	47	M60 - 64	4	08:37		
+67	177	Sullivan Lieby	Male	12	Santa Cruz	CA	53:39	48	M1 - 12	1	08:39		
+68	338	Hannah Wygant	Female	29	Santa Cruz	CA	53:46	20	F25 - 29	3	08:40		
+69	212	Jim Tiffany	Male	70	Seaside	CA	53:53	49	M70 - 74	1	08:41		
+70	309	Agnes Huff	Female	33	Davenport	CA	54:02	21	F30 - 34	4	08:42		
+71	361	Kristen Mackenzie	Female	37	Los Gatos	CA	54:21	22	F35 - 39	4	08:45		
+72	258	Chris Wagner	Male	54	Rancho Murieta	CA	54:32	50	M50 - 54	4	08:47		
+73	327	Antonio Plaza	Male	18	Santa Cruz	CA	54:48	51	M13 - 18	4	08:50		
+74	219	Aiden Madrigal	Male	14	Watsonville	CA	54:50	52	M13 - 18	5	08:50		
+75	272	Gregory Bowers	Male	42	Berkeley	CA	54:52	53	M40 - 44	9	08:50		
+76	246	Geo Hernandez Herrera	Male	26	Seaside	CA	55:03	54	M25 - 29	5	08:52		
+77	360	Sara Teitelbaum	Female	19	Berkeley	CA	55:10	23	F19 - 24	1	08:53		
+78	256	Jose Rizo	Male	58	Salinas	CA	55:15	55	M55 - 59	3	08:54		
+79	220	Nathaniel Madrigal	Male	12	Watsonville	CA	55:18	56	M1 - 12	2	08:55		
+80	344	Eugene Notstad	Male	35	Rocklin	CA	55:19	57	M35 - 39	6	08:55		
+81	203	Kevin Chan	Male	48	Santa Clara	CA	55:21	58	M45 - 49	5	08:55		
+82	385	Christopher Sanchez	Male	46	Boise	ID	55:29	59	M45 - 49	6	08:56		
+83	200	Mikayla Lombrozo	Female	19	Scotts Valley	CA	55:35	24	F19 - 24	2	08:57		
+84	340	Kessler Smith	Female	47	Anderson	SC	55:46	25	F45 - 49	3	08:59		
+85	295	Matthew Jamieson	Male	45	Santa Cruz	CA	55:48	60	M45 - 49	7	08:59		
+86	297	Callan Jamieson	Male	9	Santa Cruz	CA	55:49	61	M1 - 12	3	09:00		
+87	271	Shannon Morfield	Female	41	Aptos	CA	55:53	26	F40 - 44	2	09:00		
+88	371	Meg Gudgeirsson	Female	43	Alameda	CA	55:53	27	F40 - 44	3	09:00		
+89	323	Kadin Riggs	Male	19	Soquel	CA	56:06	62	M19 - 24	10	09:02		
+90	164	Jorge Alamo	Male	50	Madera	CA	56:10	63	M50 - 54	5	09:03		
+91	342	Daniel Borlean	Male	47	Scotts Valley	CA	56:28	64	M45 - 49	8	09:06		
+92	383	Alfonso Vargas	Male	34	Santa Clara	CA	56:28	65	M30 - 34	6	09:06		
+93	216	Hilary Haskell	Female	32	Santa Clara	CA	56:31	28	F30 - 34	5	09:06		
+94	321	Cecile Cruz	Female	55	Santa Cruz	CA	56:36	29	F55 - 59	3	09:07		
+95	337	Tiernan Doran	Male	21	Garden City	ID	56:44	66	M19 - 24	11	09:08		
+96	282	Amy Barton	Female	49	Santa Cruz	CA	57:09	30	F45 - 49	4	09:13		
+97	357	Olivia Conley	Female	19	Portola Valley	CA	57:22	31	F19 - 24	3	09:15		
+98	359	Zachary Lottmann	Male	22	Albany	CA	57:22	67	M19 - 24	12	09:15		
+99	390	Michael Riordan	Male	69	Los Gatos	CA	57:48	68	M65 - 69	1	09:19		
+100	341	Tony Augimeri	Male	71	Scotts Valley	CA	57:53	69	M70 - 74	2	09:20		
+101	175	Amy Weisser	Female	50	Watsonville	CA	58:02	32	F50 - 54	1	09:21		
+102	266	Sean Pasin	Male	51	Mountain View	CA	58:26	70	M50 - 54	6	09:25		
+103	314	Andy Olson	Male	60	Ben Lomond	CA	58:26	71	M60 - 64	5	09:25		
+104	155	Fernanda Patino	Female	27	San Jose	CA	58:29	33	F25 - 29	4	09:25		
+105	333	Aaron Ferrucci	Male	60	Santa Cruz	CA	58:31	72	M60 - 64	6	09:26		
+106	398	Johaan Ryberg	Male	40	Soquel	CA	58:36	73	M40 - 44	10	09:27		
+107	173	Steven Occhipinti	Male	70	Felton	CA	58:38	74	M70 - 74	3	09:27		
+108	378	Christopher Tinkler	Male	45	Bonney Lake	WA	58:55	75	M45 - 49	9	09:30		
+109	178	Nate Lieby	Male	47	Santa Cruz	CA	58:59	76	M45 - 49	10	09:30		
+110	202	Carmen Hurstrom	Female	59	Livingston	CA	59:00	34	F55 - 59	4	09:30		
+111	280	Joachim Limburg	Male	64	Campbell	CA	59:08	77	M60 - 64	7	09:32		
+112	302	Sanji Coutts	Female	58	Santa Cruz	CA	59:10	35	F55 - 59	5	09:32		
+113	166	Adela Cervantes	Female	38	Madera	CA	59:12	36	F35 - 39	5	09:32		
+114	380	Norman Johnston	Male	34	Santa Cruz	CA	59:14	78	M30 - 34	7	09:33		
+115	197	Dana Garbo	Female	55	Santa Cruz	CA	59:23	37	F55 - 59	6	09:34		
+116	319	Matthew Folmer	Male	48	Sanger	CA	59:44	79	M45 - 49	11	09:38		
+117	185	Jesus Solis	Male	37	Freedom	CA	1:00:01	80	M35 - 39	7	09:40		
+118	249	Aaron Rulison	Male	61	Los Altos	CA	1:00:25	81	M60 - 64	8	09:44		
+119	303	Rebecca Kahan	Female	46	Santa Cruz	CA	1:00:49	38	F45 - 49	5	09:48		
+120	250	Jennifer Karno	Female	58	Santa Cruz	CA	1:00:54	39	F55 - 59	7	09:49		
+121	206	Sharron Reiss-Miller	Female	66	Los Gatos	CA	1:00:55	40	F65 - 69	1	09:49		
+122	316	Ryne Fiebig	Male	35	Campbell	CA	1:01:16	82	M35 - 39	8	09:52		
+123	317	Sierra Fiebig	Female	35	Campbell	CA	1:01:16	41	F35 - 39	6	09:52		
+124	158	Colin Sublette	Male	39	Santa Cruz	CA	1:01:33	83	M35 - 39	9	09:55		
+125	163	Stephanie Sublette	Female	38	Santa Cruz	CA	1:01:33	42	F35 - 39	7	09:55		
+126	274	Tiffany Venegas	Female	27	Belmont	CA	1:02:03	43	F25 - 29	5	10:00		
+127	347	Philip Goodrich	Male	25	Scotts Valley	CA	1:02:12	84	M25 - 29	6	10:01		
+128	213	Heather Rowe	Female	44	Felton	CA	1:02:21	44	F40 - 44	4	10:03		
+129	275	Albert Wu	Male	43	San Mateo	CA	1:02:24	85	M40 - 44	11	10:03		
+130	387	Laszlo Hermann-Gwilliam	Male	12	Amherst	MA	1:02:32	86	M1 - 12	4	10:05		
+131	386	Sophie Hermann	Female	42	Amherst	MA	1:02:35	45	F40 - 44	5	10:05		
+132	165	Sergio Eduardo Miguez	Male	69	Y BUENA		1:02:36	87	M65 - 69	2	10:05		
+133	218	Angel Madrigal	Male	45	Watsonville	CA	1:02:45	88	M45 - 49	12	10:07		
+134	325	Greg Bostrom	Male	70	Los Gatos	CA	1:02:55	89	M70 - 74	4	10:08		
+135	289	Ross Tollick	Male	41	Boulder Creek	CA	1:03:38	90	M40 - 44	12	10:15		
+136	154	Chaley Zachmeier	Female	41	Santa Cruz	CA	1:03:54	46	F40 - 44	6	10:18		
+137	223	Cynthia Flores	Female	17	Gilroy	CA	1:04:07	47	F13 - 18	5	10:20		
+138	205	Carolyn Huggins	Female	31	Fort Irwin	CA	1:04:13	48	F30 - 34	6	10:21		
+139	270	Martin Medina	Male	38	Castroville	CA	1:04:27	91	M35 - 39	10	10:23		
+140	351	Ericka Campos	Female	35	Santa Clara	CA	1:04:31	49	F35 - 39	8	10:24		
+141	262	Deanne Ortiz-Mclendon	Female	51	Santa Cruz	CA	1:04:32	50	F50 - 54	2	10:24		
+142	374	Jack Mullis	Male	48	Santa Cruz	CA	1:04:39	92	M45 - 49	13	10:25		
+143	243	Daniel Galpin	Male	53	Mountain View	CA	1:04:55	93	M50 - 54	7	10:28		
+144	242	Ana Egger	Female	56	Santa Clara	CA	1:05:12	51	F55 - 59	8	10:30		
+145	403	Benjamin Ruggeberg	Male	34	Felton	CA	1:05:16	94	M30 - 34	8	10:31		
+146	189	Seth Paris	Male	51	Aptos	CA	1:05:18	95	M50 - 54	8	10:31		
+147	329	Adeline Shin	Female	28	Santa Cruz	CA	1:05:25	52	F25 - 29	6	10:32		
+148	283	Marina Eyre	Female	48	Santa Cruz	CA	1:05:31	53	F45 - 49	6	10:33		
+149	276	Deana Zornow	Female	40	Mountain View	CA	1:05:48	54	F40 - 44	7	10:36		
+150	288	Amy Radovan	Female	56	Santa Cruz	CA	1:05:48	55	F55 - 59	9	10:36		
+151	395	Carmen Greiner	Female	22	Santa Cruz	CA	1:05:53	56	F19 - 24	4	10:37		
+152	257	BJ Snider	Male	58	Felton	CA	1:06:14	96	M55 - 59	4	10:40		
+153	207	John Morris	Male	29	Campbell	CA	1:06:30	97	M25 - 29	7	10:43		
+154	375	Vanessa Stuckey	Female	36	Oakland	CA	1:06:31	57	F35 - 39	9	10:43		
+155	345	Scott Goodrich	Male	65	Scotts Valley	CA	1:06:40	98	M65 - 69	3	10:45		
+156	315	Sean Cohelan	Male	58	Ben Lomond	CA	1:06:50	99	M55 - 59	5	10:46		
+157	320	Maridee Charlton	Female	69	Santa Cruz	CA	1:06:51	58	F65 - 69	2	10:46		
+158	187	David Edmonds	Male	50	Capitola	CA	1:07:00	100	M50 - 54	9	10:48		
+159	221	William Leber	Male	22	Fremont	CA	1:07:04	101	M19 - 24	13	10:49		
+160	362	Erick Castillo	Male	44	Santa Cruz	CA	1:07:05	102	M40 - 44	13	10:49		
+161	232	Aviv Bachan	Male	45	San Josesan Jose	CA	1:07:20	103	M45 - 49	14	10:51		
+162	240	Edith Chiu	Female	49	San Jose	CA	1:07:24	59	F45 - 49	7	10:52		
+163	227	Marc Vidal	Male	11	San Jose	CA	1:07:31	104	M1 - 12	5	10:53		
+164	284	Amy Leonard	Female	41	Los Gatos	CA	1:07:40	60	F40 - 44	8	10:54		
+165	290	Bryn Evans	Female	36	Scotts Valley	CA	1:07:51	61	F35 - 39	10	10:56		
+166	255	Rosa Mendoza	Female	52	Salinas	CA	1:08:11	62	F50 - 54	3	10:59		
+167	300	Jeremy Ross	Male	44			1:08:42	105	M40 - 44	14	11:04		
+168	369	Grace Trenholme	Female	22	Santa Cruz	CA	1:08:47	63	F19 - 24	5	11:05		
+169	269	Robin Rose	Female	64	Aptos	CA	1:08:47	64	F60 - 64	2	11:05		
+170	367	Mimi Kruse-Trenholme	Female	60	Santa Cruz	CA	1:08:49	65	F60 - 64	3	11:05		
+171	188	David Scholar	Male	61	Santa Cruz	CA	1:08:56	106	M60 - 64	9	11:07		
+172	324	Michael Moreno	Male	53	Santa Cruz	CA	1:08:57	107	M50 - 54	10	11:07		
+173	291	Edwin Hutchins	Male	71	Scotts Valley	CA	1:09:07	108	M70 - 74	5	11:08		
+174	311	Stefanie Bruggeman	Female	59	Los Altos	CA	1:09:12	66	F55 - 59	10	11:09		
+175	336	Stacy Sutherland	Female	51	Garden City	ID	1:09:22	67	F50 - 54	4	11:11		
+176	182	Annie Abbott	Female	28	Mountain View	CA	1:09:27	68	F25 - 29	7	11:12		
+177	186	Elizabeth Valencia	Female	40	Los Gatos	CA	1:09:29	69	F40 - 44	9	11:12		
+178	222	Tate Fisher	Male	24	San Jose	CA	1:09:32	109	M19 - 24	14	11:12		
+179	156	Veronica Shepardson	Female	68	San Jose	CA	1:09:32	70	F65 - 69	3	11:12		
+180	400	Beatrice Campbell	Female	14	Capitola	CA	1:09:41	71	F13 - 18	6	11:14		
+181	399	Elliott Campbell	Male	49	Capitola	CA	1:09:41	110	M45 - 49	15	11:14		
+182	180	Todd Carpenter	Male	54	Baltimore	MD	1:09:49	111	M50 - 54	11	11:15		
+183	372	Mireya Pamatz	Female	28	Salinas	CA	1:09:50	72	F25 - 29	8	11:15		
+184	168	Vivian Machuca	Female	24	Watsonville	CA	1:09:54	73	F19 - 24	6	11:16		
+185	379	Sara Jennings	Female	43	Gig Harbor	WA	1:09:59	74	F40 - 44	10	11:17		
+186	201	Dana Wagner	Female	59	Watsonville	CA	1:10:04	75	F55 - 59	11	11:17		
+187	393	Melisa Myer	Female	54	Capitola	CA	1:10:05	76	F50 - 54	5	11:18		
+188	179	T.C. Bergen	Male	64	Duluth	GA	1:10:26	112	M60 - 64	10	11:21		
+189	245	Lindsay Kearns	Female	41	Hollister	CA	1:10:27	77	F40 - 44	11	11:21		
+190	330	John Collins	Male	60	Scotts Valley	CA	1:13:45	113	M60 - 64	11	11:53		
+191	199	Katrina Lombrozo	Female	21	Santa Cruz	CA	1:13:46	78	F19 - 24	7	11:53		
+192	281	Nicole Rudenky	Female	21	Encino	CA	1:13:46	79	F19 - 24	8	11:53		
+193	331	Greg Savvy" Savidge	Male	50	San Francisco	CA	1:13:47	114	M50 - 54	12	11:54		
+194	268	Tommy Morris	Male	60	Santa Cruz	CA	1:13:57	115	M60 - 64	12	11:55		
+195	264	William Morris	Male	54	Santa Cruz	CA	1:13:58	116	M50 - 54	13	11:55		
+196	172	Mary Schindler	Female	66	Santa Cruz	CA	1:14:11	80	F65 - 69	4	11:57		
+197	194	Vincent Garibaldi	Male	27	Santa Cruz	CA	1:14:15	117	M25 - 29	8	11:58		
+198	389	Marie Rankin	Female	59	Livermore	CA	1:14:20	81	F55 - 59	12	11:59		
+199	204	Yecenia Perez	Female	33	Marina	CA	1:14:34	82	F30 - 34	7	12:01		
+200	326	Daniela Jappy	Female	50	Scotts Valley	CA	1:14:53	83	F50 - 54	6	12:04		
+201	151	Amalia Andrade	Female	46	Hollister	CA	1:14:56	84	F45 - 49	8	12:05		
+202	394	Sally Ghilarducci	Female	52	Santa Cruz	CA	1:15:04	85	F50 - 54	7	12:06		
+203	332	Mitchell Swanson	Male	70	Woodbridge	CA	1:15:31	118	M70 - 74	6	12:10		
+204	285	Sarah Lisha	Female	45	Los Gatos	CA	1:15:33	86	F45 - 49	9	12:11		
+205	234	Jessica Martin	Female	51	San Jose	CA	1:15:34	87	F50 - 54	8	12:11		
+206	334	Lana Swanson	Female	64	Woodbridge	CA	1:15:35	88	F60 - 64	4	12:11		
+207	382	Melissa Webb	Female	40	San Jose	CA	1:16:32	89	F40 - 44	12	12:20		
+208	198	Wendy Bussiere	Female	58	Santa Cruz	CA	1:16:44	90	F55 - 59	13	12:22		
+209	162	Alan Speidel	Male	75	Santa Cruz	CA	1:16:50	119	M75 - 99	1	12:23		
+210	157	Silvia Ortega	Female	41	Watsonville	CA	1:18:12	91	F40 - 44	13	12:36		
+211	397	Kaz Shaikh	Male	57	Cupertino	CA	1:18:45	120	M55 - 59	6	12:42		
+212	254	Yolanda Guzman	Female	36	Watsonville	CA	1:19:59	92	F35 - 39	11	12:54		
+213	226	Dana Goodgame	Female	44	San Jose	CA	1:20:48	93	F40 - 44	14	13:01		
+214	153	Laura Mellish	Female	62	Soquel	CA	1:20:56	94	F60 - 64	5	13:03		
+215	388	Susan Zackovich	Female	65	Santa Cruz	CA	1:21:59	95	F65 - 69	5	13:13		
+216	368	Hiram Clawson	Male	74	Santa Cruz	CA	1:22:07	121	M70 - 74	7	13:14		
+217	292	Joseph Barrows	Male	38	Scotts Valley	CA	1:23:19	122	M35 - 39	11	13:26		
+218	322	Joel Jimenez	Male	52	Royal Oaks	CA	1:24:57	123	M50 - 54	14	13:41		
+219	310	Medium Hernandez	Female	46	Watsonville	CA	1:25:31	96	F45 - 49	10	13:47		
+220	253	Arthur Swift	Male	66	Santa Cruz	CA	1:26:21	124	M65 - 69	4	13:55		
+221	299	Claire Swartz	Female	27	Santa Cruz	CA	1:26:38	97	F25 - 29	9	13:58		
+222	160	Juan Ortega	Male	68	Watsonville	CA	1:27:02	125	M65 - 69	5	14:02		
+223	363	Renee Tan	Female	57	Santa Cruz	CA	1:28:13	98	F55 - 59	14	14:13		
+224	252	Mariana Ruvalcaba	Female	43	Watsonville	CA	1:28:48	99	F40 - 44	15	14:19		
+225	312	Don Arthur	Male	76	SANTA CRUZ	CA	1:29:15	126	M75 - 99	2	14:23		
+226	209	Rebecca Dominguez	Female	57	Santa Cruz	CA	1:30:30	100	F55 - 59	15	14:35		
+227	251	Shauna Zimmerman	Female	47	San Jose	CA	1:34:24	101	F45 - 49	11	15:13		
+228	301	Suvradip Ghosh	Male	42	Watsonville	CA	1:41:40	127	M40 - 44	15	16:23		
+229	190	Yolanda Rivera	Female	58	San Jose	CA	1:42:01	102	F55 - 59	16	16:27		
+230	350	Carolyn Chenoweth	Female	72	Santa Cruz	CA	1:42:46	103	F70 - 74	1	16:34		
+231	365	Tiffany Hsu	Female	58	Capitola	CA	1:42:55	104	F55 - 59	17	16:35		
+232	364	Celestine Danen	Female	60	Santa Cruz	CA	1:42:55	105	F60 - 64	6	16:35		
+233	366	Afriyanti Neumann	Female	56	Santa Cruz	CA	1:42:55	106	F55 - 59	18	16:35		
+234	370	Cari Salzman	Female	57	Santa Cruz	CA	1:42:55	107	F55 - 59	19	16:35		
+235	152	Shelley Sewald	Female	53	Santa Cruz	CA	1:43:26	108	F50 - 54	9	16:40		
+236	376	Abbie Righetti	Female	45	Santa Cruz	CA	1:46:26	109	F45 - 49	12	17:09		
+237	377	Brian Hamilton	Male	46	Santa Cruz	CA	1:46:26	128	M45 - 49	16	17:09		
+238	210	Nancy Mitrick	Female	82	Fremont	CA	1:49:57	110	F75 - 99	2	17:44		
+239	305	Kathleen Balke	Female	73	Monterey	CA	1:50:05	111	F70 - 74	2	17:45		
+240	304	Glenn Balke	Male	72	Monterey	CA	1:50:05	129	M70 - 74	8	17:45

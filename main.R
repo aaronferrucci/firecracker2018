@@ -21,25 +21,21 @@ timestr <- function(elapsed) {
 # manually clean the data. This works for 2022 data format, perhaps for future years also.
 cleanit <- function(data, tag) {
   # two columns are all N/A, remove them (but check, first)
+  assert(paste0(tag, ": column 14 is not all NA"), all(is.na(data[,14])))
+  data <- data[-14]
   assert(paste0(tag, ": column 13 is not all NA"), all(is.na(data[,13])))
   data <- data[-13]
-  assert(paste0(tag, ": column 11 is not all NA"), all(is.na(data[,11])))
-  data <- data[-11]
   
-  # column 3 is just an initial. Remove it
-  assert(paste0(tag, ": column 3 isn't all single initial"), all(nchar(data$V3) == 1))
-  data <- data[-3]
-
   return(data)
 }
 
 divisions = data.frame(xmin=c(13, 25, 35, 45, 55, 65, 75) - 0.5, xmax=c(18, 29, 39, 49, 59, 69, 79) + 0.5, ymin=c(-Inf), ymax=c(Inf))
 
-data10k <- read.table("data/firecracker_10k_2024_manually_modified.txt", sep="\t", quote="", stringsAsFactors=F)
+data10k <- read.table("data/firecracker_10k_2025.txt", sep="\t", quote="", stringsAsFactors=F)
 data10k <- cleanit(data10k, "data10k")
-names(data10k) <- c("Place", "Bib", "Name", "Gender", "City", "State", "Country", "ClockTime", "ChipTime", "Age", "DivisionPlace", "Division")
+names(data10k) <- c("Place", "Bib", "Name", "Gender", "Age", "City", "State", "GunTime", "GenderPlace", "Division", "AgePlace", "Pace")
 
-hoursMinutesSeconds <- strsplit(data10k$ChipTime, ":")
+hoursMinutesSeconds <- strsplit(data10k$GunTime, ":")
 data10k$Time <- sapply(hoursMinutesSeconds, function(hms) Reduce(function(acc, x) as.numeric(acc) * 60 + as.numeric(x), hms ))
 time_ticks <- seq(5 * 60, max(data10k$Time), 10 * 60)
 age_ticks <- seq(10, max(data10k$Age, na.rm=T), 10)
@@ -60,7 +56,8 @@ plot10k <-
   scale_x_continuous(breaks = age_ticks) +
   geom_smooth(data=data10k, method="loess", aes(x=Age, y=Time, color=Gender), formula = y~x)
 
-extra <- data10k[data10k$Name == "Aaron Ferrucci",]
+# extra <- data10k[data10k$Name == "Aaron Ferrucci" | data10k$Name == "Ian Ferrucci" | data10k$Name == "Erick Castillo",]
+extra <- data10k[c(grep("Ferrucci", data10k$Name), grep("Erick Castillo", data10k$Name), grep("Lieby", data10k$Name)),]
 plot10k <- plot10k + geom_point(data=extra, aes(x = Age, y = Time))
 
 print(plot10k)

@@ -237,4 +237,4 @@
 237	377	Brian Hamilton	Male	46	Santa Cruz	CA	1:46:26	128	M45 - 49	16	17:09		
 238	210	Nancy Mitrick	Female	82	Fremont	CA	1:49:57	110	F75 - 99	2	17:44		
 239	305	Kathleen Balke	Female	73	Monterey	CA	1:50:05	111	F70 - 74	2	17:45		
-240	304	Glenn Balke	Male	72	Monterey	CA	1:50:05	129	M70 - 74	8	17:45
+240	304	Glenn Balke	Male	72	Monterey	CA	1:50:05	129	M70 - 74	8	17:45		

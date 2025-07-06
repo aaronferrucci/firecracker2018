@@ -54,9 +54,8 @@ plot10k <-
   expand_limits(x = 10, y = 35*60) +
   scale_y_continuous(breaks = time_ticks, labels = timestr(time_ticks), name = "elapsed time (h:mm:ss)") +
   scale_x_continuous(breaks = age_ticks) +
-  geom_smooth(data=data10k, method="loess", aes(x=Age, y=Time, color=Gender), formula = y~x)
+  geom_smooth(data=data10k, level=0.95, se=T, method="loess", aes(x=Age, y=Time, color=Gender), formula = y~x)
 
-# extra <- data10k[data10k$Name == "Aaron Ferrucci" | data10k$Name == "Ian Ferrucci" | data10k$Name == "Erick Castillo",]
 extra <- data10k[c(grep("Ferrucci", data10k$Name), grep("Erick Castillo", data10k$Name), grep("Lieby", data10k$Name)),]
 plot10k <- plot10k + geom_point(data=extra, aes(x = Age, y = Time))
 

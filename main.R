@@ -24,12 +24,15 @@ cleanit <- function(data, tag) {
   return(data)
 }
 
+# definition of age ranges
 divisions = data.frame(
   xmin=c(8, 13, 19, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 99) - 0.5,
   xmax=c(12, 18, 24, 29, 34, 39, 44, 49, 54, 59, 64, 69, 74, 79, 98, 99) + 0.5,
   ymin=c(-Inf),
   ymax=c(Inf)
 )
+# remove every other rectangle, for plotting
+divisions <- divisions[seq(2, nrow(divisions),2),]
 
 # the last line of the raw data is malformed; I've deleted that line in the 'manually-modified' data.
 data10k <- read.table("data/firecracker_10k_2026_manually_modified.txt", header=T, sep="\t", quote="", stringsAsFactors=F)
@@ -56,7 +59,7 @@ plot10k <-
   scale_x_continuous(breaks = age_ticks) +
   geom_smooth(data=data10k, level=0.95, se=T, method="loess", aes(x=Age, y=Time, color=Gender), formula = y~x)
 
-extra <- data10k[c(grep("Ferrucci", data10k$Name), grep("Erick Castillo", data10k$Name), grep("Lieby", data10k$Name)),]
+extra <- data10k[c(grep("Ferrucci", data10k$Full.Name)),]
 plot10k <- plot10k + geom_point(data=extra, aes(x = Age, y = Time))
 
 print(plot10k)

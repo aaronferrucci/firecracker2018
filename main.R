@@ -20,14 +20,16 @@ timestr <- function(elapsed) {
 
 # manually clean the data. 2026 data needed less cleaning than previous years.
 cleanit <- function(data, tag) {
-
+  # 4 records have name="Unknown", Age=99. If the age were reasonable I'd leave
+  # these in, but I'm skeptical and it messes up the plot.
+  data <- data[data$Full.Name != "Unknown",]
   return(data)
 }
 
 # definition of age ranges
 divisions = data.frame(
-  xmin=c(8, 13, 19, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 99) - 0.5,
-  xmax=c(12, 18, 24, 29, 34, 39, 44, 49, 54, 59, 64, 69, 74, 79, 98, 99) + 0.5,
+  xmin=c(8, 13, 19, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80) - 0.5,
+  xmax=c(12, 18, 24, 29, 34, 39, 44, 49, 54, 59, 64, 69, 74, 79, 98) + 0.5,
   ymin=c(-Inf),
   ymax=c(Inf)
 )

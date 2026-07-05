@@ -18,24 +18,24 @@ timestr <- function(elapsed) {
   return(time)
 }
 
-# manually clean the data. This works for 2022 data format, perhaps for future years also.
+# manually clean the data. 2026 data needed less cleaning than previous years.
 cleanit <- function(data, tag) {
-  # two columns are all N/A, remove them (but check, first)
-  assert(paste0(tag, ": column 14 is not all NA"), all(is.na(data[,14])))
-  data <- data[-14]
-  assert(paste0(tag, ": column 13 is not all NA"), all(is.na(data[,13])))
-  data <- data[-13]
-  
+
   return(data)
 }
 
-divisions = data.frame(xmin=c(13, 25, 35, 45, 55, 65, 75) - 0.5, xmax=c(18, 29, 39, 49, 59, 69, 79) + 0.5, ymin=c(-Inf), ymax=c(Inf))
+divisions = data.frame(
+  xmin=c(8, 13, 19, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 99) - 0.5,
+  xmax=c(12, 18, 24, 29, 34, 39, 44, 49, 54, 59, 64, 69, 74, 79, 98, 99) + 0.5,
+  ymin=c(-Inf),
+  ymax=c(Inf)
+)
 
-data10k <- read.table("data/firecracker_10k_2025.txt", sep="\t", quote="", stringsAsFactors=F)
+# the last line of the raw data is malformed; I've deleted that line in the 'manually-modified' data.
+data10k <- read.table("data/firecracker_10k_2026_manually_modified.txt", header=T, sep="\t", quote="", stringsAsFactors=F)
 data10k <- cleanit(data10k, "data10k")
-names(data10k) <- c("Place", "Bib", "Name", "Gender", "Age", "City", "State", "GunTime", "GenderPlace", "Division", "AgePlace", "Pace")
 
-hoursMinutesSeconds <- strsplit(data10k$GunTime, ":")
+hoursMinutesSeconds <- strsplit(data10k$Gun.Elapsed.Time, ":")
 data10k$Time <- sapply(hoursMinutesSeconds, function(hms) Reduce(function(acc, x) as.numeric(acc) * 60 + as.numeric(x), hms ))
 time_ticks <- seq(5 * 60, max(data10k$Time), 10 * 60)
 age_ticks <- seq(10, max(data10k$Age, na.rm=T), 10)

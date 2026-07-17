@@ -2,6 +2,8 @@ library(ggplot2)
 library(ggrepel)
 library(dplyr)
 
+# TODO: next, try adding 2024 data into the chart (data/firecracker_10k_2024.txt)
+
 timestr <- function(elapsed) {
   seconds <- elapsed
   hours <- as.integer(seconds / 3600)
@@ -53,6 +55,14 @@ combined$Runner <- factor(combined$Runner, levels=c(repeat_names, "Other finishe
 field <- combined[combined$Runner == "Other finishers",]
 repeats <- combined[combined$Runner != "Other finishers",]
 
+# numeric x position so the age labels can be anchored to the same jittered
+# spot as each field dot (position_jitter inside geom_point has no data the
+# repel label layer can see, so the jitter has to be computed once, here)
+xpos <- c(`2025`=1, `2026`=2)
+set.seed(42)
+field$PlotX <- xpos[field$Year] + runif(nrow(field), -0.06, 0.06)
+repeats$PlotX <- xpos[repeats$Year]
+
 # validated palette slots: magenta, green, violet, yellow. Andy Olson gets
 # magenta (not the usual slot-1 blue) because it separates further from Aaron's
 # green than blue does (normal-vision ΔE 35.9 vs 29.0, CVD ΔE 17.6 vs 26.5) --
@@ -70,20 +80,26 @@ time_ticks <- seq(45*60, 75*60, by=5*60)
 
 label_data <- repeats[repeats$Year == "2026",]
 
+# every dot, both years, gets a small muted age label anchored to its exact
+# (possibly jittered) plotted position
+age_labels <- rbind(field[, c("PlotX","Time","Age")], repeats[, c("PlotX","Time","Age")])
+
 set.seed(42)
 slope_plot <-
   ggplot() +
-  geom_point(data=field, aes(x=Year, y=Time), color="#c3c2b7", size=2, alpha=0.8,
-             position=position_jitter(width=0.06, height=0)) +
-  geom_line(data=repeats, aes(x=Year, y=Time, group=Full.Name, color=Runner, linewidth=is_ferrucci)) +
-  geom_point(data=repeats, aes(x=Year, y=Time, color=Runner, size=highlight_point)) +
-  geom_text_repel(data=label_data, aes(x=Year, y=Time, label=Full.Name, color=Runner),
-                   nudge_x=0.15, hjust=0, direction="y", segment.size=0.3, show.legend=F) +
+  geom_point(data=field, aes(x=PlotX, y=Time), color="#c3c2b7", size=2, alpha=0.8) +
+  geom_line(data=repeats, aes(x=PlotX, y=Time, group=Full.Name, color=Runner, linewidth=is_ferrucci)) +
+  geom_point(data=repeats, aes(x=PlotX, y=Time, color=Runner, size=highlight_point)) +
+  geom_text_repel(data=age_labels, aes(x=PlotX, y=Time, label=Age),
+                   size=2.5, color="#898781", segment.size=0.2, segment.color="#c3c2b7",
+                   box.padding=0.15, point.padding=0.05, force=0.3, max.overlaps=Inf, seed=42) +
+  geom_text_repel(data=label_data, aes(x=PlotX, y=Time, label=Full.Name, color=Runner),
+                   nudge_x=0.2, hjust=0, direction="y", segment.size=0.3, show.legend=F) +
   scale_color_manual(values=runner_colors, breaks=repeat_names, name="Repeat finishers (M60-64)") +
   scale_linewidth_manual(values=c(`FALSE`=0.6, `TRUE`=1.4), guide="none") +
   scale_size_manual(values=c(`FALSE`=2.5, `TRUE`=4), guide="none") +
   scale_y_reverse(breaks=time_ticks, labels=timestr(time_ticks), name="elapsed time (h:mm:ss) - faster is higher") +
-  scale_x_discrete(expand=expansion(add=c(0.3, 0.6))) +
+  scale_x_continuous(breaks=c(1, 2), labels=c("2025", "2026"), expand=expansion(add=c(0.3, 1.0))) +
   labs(x="Race year",
        title="Firecracker 10k - Male, age 60-64",
        subtitle="Aaron Ferrucci moved from 6th to 3rd in the age group (58:31 -> 57:08)") +
@@ -97,6 +113,6 @@ slope_plot <-
   )
 
 print(slope_plot)
-svg(filename="slope_male_60_64.svg", width=8, height=7)
+svg(filename="slope_male_60_64.svg", width=9, height=7)
 print(slope_plot)
 dev.off()

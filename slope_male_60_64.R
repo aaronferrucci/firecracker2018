@@ -2,8 +2,6 @@ library(ggplot2)
 library(ggrepel)
 library(dplyr)
 
-# TODO: next, try adding 2024 data into the chart (data/firecracker_10k_2024.txt)
-
 timestr <- function(elapsed) {
   seconds <- elapsed
   hours <- as.integer(seconds / 3600)
@@ -24,6 +22,15 @@ parse_time <- function(hms_str) {
   sapply(strsplit(hms_str, ":"), function(hms) Reduce(function(acc, x) as.numeric(acc) * 60 + as.numeric(x), hms))
 }
 
+# 2024: the raw file wraps each finisher's name across several physical lines
+# (a PDF-table-extraction artifact); using the manually-modified file, which
+# has already collapsed each record to one tab-separated row (see main.R).
+data2024 <- read.table("data/firecracker_10k_2024_manually_modified.txt", header=F, sep="\t", quote="", stringsAsFactors=F,
+  col.names=c("Place","Bib","Initial","Full.Name","Gender","City","State","Country","Time",
+              "Time2","Blank1","Age","Blank2","AgeGroupPlace","AgeGroup"))
+data2024$Time <- parse_time(data2024$Time)
+data2024$Year <- "2024"
+
 # 2025: no header row in the raw file
 data2025 <- read.table("data/firecracker_10k_2025.txt", header=F, sep="\t", quote="", stringsAsFactors=F,
   col.names=c("Place","Bib","Full.Name","Gender","Age","City","State","Time",
@@ -36,8 +43,12 @@ data2026 <- read.table("data/firecracker_10k_2026_manually_modified.txt", header
 data2026$Time <- parse_time(data2026$Gun.Elapsed.Time)
 data2026$Year <- "2026"
 
+# 2024 shows the previous age bracket (55-59), since that's where this year's
+# 60-64 runners were racing back then -- this puts Aaron Ferrucci in the 2024
+# field instead of leaving that column disconnected from him.
 cols <- c("Full.Name", "Age", "Time", "Year")
-combined <- rbind(data2025[data2025$Gender == "Male" & data2025$Age >= 60 & data2025$Age <= 64, cols],
+combined <- rbind(data2024[data2024$Gender == "M" & data2024$Age >= 55 & data2024$Age <= 59, cols],
+                   data2025[data2025$Gender == "Male" & data2025$Age >= 60 & data2025$Age <= 64, cols],
                    data2026[data2026$Gender == "Male" & data2026$Age >= 60 & data2026$Age <= 64, cols])
 
 combined <- combined %>%
@@ -58,7 +69,7 @@ repeats <- combined[combined$Runner != "Other finishers",]
 # numeric x position so the age labels can be anchored to the same jittered
 # spot as each field dot (position_jitter inside geom_point has no data the
 # repel label layer can see, so the jitter has to be computed once, here)
-xpos <- c(`2025`=1, `2026`=2)
+xpos <- c(`2024`=1, `2025`=2, `2026`=3)
 set.seed(42)
 field$PlotX <- xpos[field$Year] + runif(nrow(field), -0.06, 0.06)
 repeats$PlotX <- xpos[repeats$Year]
@@ -99,16 +110,18 @@ slope_plot <-
   scale_linewidth_manual(values=c(`FALSE`=0.6, `TRUE`=1.4), guide="none") +
   scale_size_manual(values=c(`FALSE`=2.5, `TRUE`=4), guide="none") +
   scale_y_reverse(breaks=time_ticks, labels=timestr(time_ticks), name="elapsed time (h:mm:ss) - faster is higher") +
-  scale_x_continuous(breaks=c(1, 2), labels=c("2025", "2026"), expand=expansion(add=c(0.3, 1.0))) +
+  scale_x_continuous(breaks=c(1, 2, 3), labels=c("2024", "2025", "2026"), expand=expansion(add=c(0.3, 1.0))) +
   labs(x="Race year",
        title="Firecracker 10k - Male, age 60-64",
-       subtitle="Aaron Ferrucci moved from 6th to 3rd in the age group (58:31 -> 57:08)") +
+       subtitle="Aaron Ferrucci moved from 6th to 3rd in the age group (58:31 -> 57:08)",
+       caption="2024 column shows the age 55-59 bracket (one year younger than the 60-64 group shown for 2025/2026)") +
   theme_minimal() +
   theme(
     panel.grid.minor = element_blank(),
     panel.grid.major.x = element_blank(),
     plot.title = element_text(hjust = 0.5),
     plot.subtitle = element_text(hjust = 0.5),
+    plot.caption = element_text(hjust = 0.5, color = "#898781"),
     legend.position = "bottom"
   )
 

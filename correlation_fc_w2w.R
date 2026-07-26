@@ -83,33 +83,56 @@ cat(sprintf("Pearson r = %.3f (95%% CI %.3f-%.3f), p = %.2e\n",
 
 matched$is_aaron <- matched$Full.Name == "Aaron Ferrucci"
 
+# --- Aaron's 2026 point (Firecracker field is scraped in full; 2026 Wharf to
+# Wharf isn't -- only Aaron's own result is recorded, in
+# wharf2wharf_2026_aaron.txt) -- so 2026 can't join the population
+# correlation above, but his point is still worth showing on the chart.
+fc2026 <- read.table("data/firecracker_10k_2026_manually_modified.txt", header=T, sep="\t", quote="", stringsAsFactors=F,
+  col.names=c("Race.Place","Bib","Full.Name","Gender","Age","Gun.Start","Time","Finish.Clock","GenderPlace","AgeGroup"))
+fc2026$Time <- parse_time(fc2026$Time)
+
+w2w2026_aaron <- read.table("data/wharf2wharf_2026_aaron.txt", header=T, sep="\t", quote="", stringsAsFactors=F, na.strings="NA")
+w2w2026_aaron$Time <- parse_time(w2w2026_aaron$Chip.Elapsed.Time)
+
+aaron_2026 <- data.frame(
+  Full.Name="Aaron Ferrucci",
+  Year="2026",
+  FC.Time=fc2026$Time[fc2026$Full.Name == "Aaron Ferrucci"],
+  W2W.Time=w2w2026_aaron$Time[w2w2026_aaron$Full.Name == "Aaron Ferrucci"],
+  is_aaron=TRUE)
+
 time_ticks_fc  <- seq(30*60, 90*60, by=10*60)
 time_ticks_w2w <- seq(25*60, 75*60, by=10*60)
 
-# validated palette (dataviz skill): 2 categorical series (year) -- well
-# within the first-3-slots all-pairs-safe range for a scatter chart
-year_colors <- c(`2024`="#2a78d6", `2025`="#eb6834")
+# validated palette (dataviz skill): 3 categorical series (year) -- within
+# the first-3-slots all-pairs-safe range for a scatter chart
+year_colors <- c(`2024`="#2a78d6", `2025`="#eb6834", `2026`="#1baf7a")
+
+# Aaron's 2024/2025/2026 points, combined for the highlight ring + label --
+# all three sit close together, so one label anchored at their centroid
+# reads more cleanly than three (or even two) colliding ones
+aaron_all <- rbind(matched[matched$is_aaron, c("Full.Name","Year","FC.Time","W2W.Time")],
+                    aaron_2026[, c("Full.Name","Year","FC.Time","W2W.Time")])
 
 set.seed(42)
 corr_plot <-
   ggplot(matched, aes(x=FC.Time, y=W2W.Time)) +
   geom_smooth(method="lm", formula=y~x, color="#898781", fill="#e1e0d9", linewidth=0.6) +
   geom_point(aes(color=Year), size=2.5, alpha=0.85) +
-  geom_point(data=matched[matched$is_aaron,], shape=21, size=4.5, stroke=1.2,
+  geom_point(data=aaron_2026, aes(color=Year), size=2.5, alpha=0.85) +
+  geom_point(data=aaron_all, shape=21, size=4.5, stroke=1.2,
              color="#0b0b0b", fill=NA) +
-  # Aaron's 2024 and 2025 points sit almost on top of each other -- one
-  # label pointing at the pair reads more cleanly than two colliding ones
-  geom_text_repel(data=matched[matched$is_aaron,][1,] %>%
-                     mutate(FC.Time=mean(matched$FC.Time[matched$is_aaron]),
-                            W2W.Time=mean(matched$W2W.Time[matched$is_aaron])),
-                   aes(label="Aaron Ferrucci\n(2024 & 2025)"),
+  geom_text_repel(data=aaron_all[1,] %>%
+                     mutate(FC.Time=mean(aaron_all$FC.Time),
+                            W2W.Time=mean(aaron_all$W2W.Time)),
+                   aes(label="Aaron Ferrucci\n(2024-2026)"),
                    color="#0b0b0b", size=3.2, nudge_x=1100, nudge_y=550,
                    segment.size=0.3, min.segment.length=0, lineheight=0.9) +
   scale_x_continuous(breaks=time_ticks_fc, labels=timestr(time_ticks_fc), name="Firecracker 10k elapsed time (h:mm:ss)") +
   scale_y_continuous(breaks=time_ticks_w2w, labels=timestr(time_ticks_w2w), name="Wharf to Wharf (6mi) elapsed time (h:mm:ss)") +
   scale_color_manual(values=year_colors, name="Year") +
   labs(title="Firecracker 10k vs. Wharf to Wharf finish times",
-       subtitle=sprintf("%d runners who ran both races the same year -- Pearson r = %.2f (p %s)",
+       subtitle=sprintf("%d runners who ran both races the same year, 2024-2025 -- Pearson r = %.2f (p %s); 2026 shows Aaron's result only",
                          n, corr$estimate, ifelse(corr$p.value < 0.001, "< 0.001", sprintf("= %.3f", corr$p.value)))) +
   theme_minimal() +
   theme(
@@ -126,23 +149,10 @@ dev.off()
 
 # --- Aaron's own trajectory, 2024-2026 ------------------------------------
 
-# 2026 Firecracker field is scraped in full; 2026 Wharf to Wharf isn't (only
-# Aaron's own result is recorded, in wharf2wharf_2026_aaron.txt) -- so 2026
-# can't join the population correlation above, but we can still track Aaron
-# against the population model fit on 2024/2025.
-fc2026 <- read.table("data/firecracker_10k_2026_manually_modified.txt", header=T, sep="\t", quote="", stringsAsFactors=F,
-  col.names=c("Race.Place","Bib","Full.Name","Gender","Age","Gun.Start","Time","Finish.Clock","GenderPlace","AgeGroup"))
-fc2026$Time <- parse_time(fc2026$Time)
-
-w2w2026_aaron <- read.table("data/wharf2wharf_2026_aaron.txt", header=T, sep="\t", quote="", stringsAsFactors=F, na.strings="NA")
-w2w2026_aaron$Time <- parse_time(w2w2026_aaron$Chip.Elapsed.Time)
-
-aaron_fc   <- setNames(fc[fc$Full.Name == "Aaron Ferrucci", c("Year","FC.Time")], c("Year","FC.Time"))
-aaron_fc   <- rbind(aaron_fc, data.frame(Year="2026", FC.Time=fc2026$Time[fc2026$Full.Name == "Aaron Ferrucci"]))
-aaron_w2w  <- setNames(w2w[w2w$Full.Name == "Aaron Ferrucci", c("Year","W2W.Time")], c("Year","W2W.Time"))
-aaron_w2w  <- rbind(aaron_w2w, data.frame(Year="2026", W2W.Time=w2w2026_aaron$Time[w2w2026_aaron$Full.Name == "Aaron Ferrucci"]))
-
-aaron <- merge(aaron_fc, aaron_w2w, by="Year")
+# 2026 Wharf to Wharf can't join the population correlation above (only
+# Aaron's own result was scraped), but his point (already loaded as
+# aaron_2026, above) still lets us track him against the population model.
+aaron <- aaron_all[order(aaron_all$Year), c("Year", "FC.Time", "W2W.Time")]
 
 model <- lm(W2W.Time ~ FC.Time, data=matched)
 aaron$pop_pred <- predict(model, newdata=aaron)

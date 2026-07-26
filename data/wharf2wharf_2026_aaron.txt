@@ -1,0 +1,2 @@
+Race Place	Bib	Full Name	Gender	Age	City	State	Gun Elapsed Time	Chip Elapsed Time	Gender Place	Age Group	Age Place	Overall Pace	Award Places
+NA	NA	Aaron Ferrucci	Male	61	SANTA CRUZ	CA	NA	48:39	NA	NA	NA	NA	NA

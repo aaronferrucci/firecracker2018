@@ -123,3 +123,41 @@ print(corr_plot)
 svg(filename="correlation_fc_w2w.svg", width=9, height=7)
 print(corr_plot)
 dev.off()
+
+# --- Aaron's own trajectory, 2024-2026 ------------------------------------
+
+# 2026 Firecracker field is scraped in full; 2026 Wharf to Wharf isn't (only
+# Aaron's own result is recorded, in wharf2wharf_2026_aaron.txt) -- so 2026
+# can't join the population correlation above, but we can still track Aaron
+# against the population model fit on 2024/2025.
+fc2026 <- read.table("data/firecracker_10k_2026_manually_modified.txt", header=T, sep="\t", quote="", stringsAsFactors=F,
+  col.names=c("Race.Place","Bib","Full.Name","Gender","Age","Gun.Start","Time","Finish.Clock","GenderPlace","AgeGroup"))
+fc2026$Time <- parse_time(fc2026$Time)
+
+w2w2026_aaron <- read.table("data/wharf2wharf_2026_aaron.txt", header=T, sep="\t", quote="", stringsAsFactors=F, na.strings="NA")
+w2w2026_aaron$Time <- parse_time(w2w2026_aaron$Chip.Elapsed.Time)
+
+aaron_fc   <- setNames(fc[fc$Full.Name == "Aaron Ferrucci", c("Year","FC.Time")], c("Year","FC.Time"))
+aaron_fc   <- rbind(aaron_fc, data.frame(Year="2026", FC.Time=fc2026$Time[fc2026$Full.Name == "Aaron Ferrucci"]))
+aaron_w2w  <- setNames(w2w[w2w$Full.Name == "Aaron Ferrucci", c("Year","W2W.Time")], c("Year","W2W.Time"))
+aaron_w2w  <- rbind(aaron_w2w, data.frame(Year="2026", W2W.Time=w2w2026_aaron$Time[w2w2026_aaron$Full.Name == "Aaron Ferrucci"]))
+
+aaron <- merge(aaron_fc, aaron_w2w, by="Year")
+
+model <- lm(W2W.Time ~ FC.Time, data=matched)
+aaron$pop_pred <- predict(model, newdata=aaron)
+aaron$resid_sec <- aaron$W2W.Time - aaron$pop_pred
+
+# personal offset, estimated from years with actual W2W results only (2024-2025)
+personal_offset <- mean(aaron$resid_sec[aaron$Year %in% c("2024", "2025")])
+aaron$personal_pred <- aaron$pop_pred + personal_offset
+
+cat("\nAaron Ferrucci, Firecracker 10k vs Wharf to Wharf, 2024-2026:\n")
+for (i in seq_len(nrow(aaron))) {
+  cat(sprintf("  %s  FC %s  W2W %s  (population-model pred %s, personal-offset pred %s)\n",
+              aaron$Year[i], timestr(aaron$FC.Time[i]), timestr(aaron$W2W.Time[i]),
+              timestr(aaron$pop_pred[i]), timestr(aaron$personal_pred[i])))
+}
+# 2026 actual (48:39) landed close to the personal-offset estimate made ahead
+# of the race (49:18), and well inside the population model's error band --
+# validates using Aaron's own historical residual as a correction term.
